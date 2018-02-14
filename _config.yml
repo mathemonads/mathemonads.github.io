@@ -10,7 +10,7 @@ title: Oscar Hernandez
 email: 98Hernandez.Oscar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
         Oscar Hernandez is a tech entrepreneur based out of Riverside, CA. 
-        He works on engineering, designing, manufacturing, and is especially interested on automation.
+        He works on engineering, designing, manufacturing, and is especially interested in automation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mathemonads.github.io" # the base hostname & protocol for your site
 twitter_username: philosophunctor
