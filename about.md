@@ -13,6 +13,6 @@ You can find the source code for this website at {% include icon-github.html use
 
 Oscar spends the majority of his day designing on Autodesk **Maya**, and repairing his beloved Prusa i3 MK2S. 
 
-An avid fan of e-courses, he is currently taking **Basic Circuit Analysis** from edX:MITx and **Operating Systems** from Udacity:GIT.
+An avid fan of e-courses, he is currently taking **Basic Circuit Analysis** from edX:MITx and **Microeconomics** from Khan Academy.
 
 He is currently reading *Structure and Interpretation of Computer Programs* by Gerald Jay Sussman and Hal Abelson.
