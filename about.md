@@ -13,6 +13,6 @@ You can find the source code for this website at {% include icon-github.html use
 With a strong foundation in mathematics, computer science, and philosophy, Oscar is now pursuing his interests in electrical and mechanical engineering. 
 He is designing a robot that automates a matrix of 3D printers, in order to automate an entire 3D print farm. 
 
-An avid fan of e-courses, he is currently taking [Magnetic Fields and Forces](https://www.edx.org/course/electricity-and-magnetism-magnetic-fields-and-forces "Electricity and Magnetism: Magnetic Fields and Forces") from edX:MITx and [Finance and Capital Markets](https://www.khanacademy.org/economics-finance-domain/core-finance "Finance and Capital Markets: Money, Banking, and Central Banks") from Khan Academy.
+An avid fan of e-courses, he is currently taking [Magnetic Fields and Forces](https://www.edx.org/course/electricity-and-magnetism-magnetic-fields-and-forces "Electricity and Magnetism: Magnetic Fields and Forces") from edX:MITx, [US Government & Politics](https://www.khanacademy.org/humanities/ap-us-government-and-politics "AP US Government and Politics: Foundations of American Democracy") from Khan Academy, and [Programming Languages](https://www.udacity.com/course/programming-languages--cs262 "Programming Languages: Building a Web Browser")
 
 He is currently reading *Structure and Interpretation of Computer Programs* by Gerald Jay Sussman and Hal Abelson.
