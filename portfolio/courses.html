@@ -19,8 +19,8 @@
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/skeleton.css">
 
   <style>
     html, body {
@@ -51,7 +51,7 @@
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="icon" type="image/png" href="/images/favicon.png">
 
 </head>
 <body>
@@ -62,50 +62,142 @@
            –––––––––––––––––––––––––––––––––––––––––––––––––– -->
       <div class="container">
 
-				<div class="row" style="margin-top: 5%">
-					<h4>Coursera</h4>
+				<div class="row" style="margin-top: 5%;" id="now">
+					<h4>Now</h4>
 					<div class="twelve columns">
 						<table class="u-full-width">
 							<tr>
 								<th>Title</th>
+								<th>Platform</th>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/programming-languages--cs262" title="Programming Languages: Building a Web Browser">Programming Languages</a></td>
+								<td><a href="http://udacity.com/sitemap" title="Udacity">Udacity</a></td>
+							</tr>
+							<tr>
+								<td><a href="https://www.edx.org/course/electricity-and-magnetism-magnetic-fields-and-forces" title="Electricity and Magnetism: Magnetic Fields and Forces">Electricity and Magnetism</a></td>
+								<td><a href="https://www.edx.org/school/mitx" title="edX:MITx">edX</a></td>
+							</tr>
+							<tr>
+								<td><a href="https://www.khanacademy.org/humanities/ap-us-government-and-politics" title="AP US Government and Politics">US Government and Politics</a></td>
+								<td><a href="https://www.khanacademy.org/humanities" title="Khan Academy Arts and Humanities">Khan Academy</a></td>
+							</tr>
+						</table>
+					</div>
+				</div>
+
+				<h4 id="previous">Previous</h4>
+				<div class="row" id="coursera">
+					<h5><a href="https://www.coursera.org" title="Coursera">Coursera</a></h5>
+					<div class="twelve columns">
+						<table class="u-full-width">
+							<tr>
+								<th>Title</th>
+								<th>Instructor, Department, Institution</th>
 							</tr>
 							<tr>
 								<td><a href="https://www.coursera.org/learn/bayesian-statistics" title="Bayesian Statistics: From Concept to Data Analysis">Bayesian Statistics</a></td>
+								<td>Professor H. Lee, Applied Mathematics and Statistics, UC Santa Cruz</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.coursera.org/learn/machine-learning" title="Machine Learning">Machine Learning</a></td>
+								<td>Co-founder A. Ng, Coursera</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.coursera.org/learn/game-theory-1" title="Game Theory">Game Theory</a></td>
+								<td>Professor M. O. Jackson, Economics, Stanford University</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.coursera.org/learn/data-science-ethics" title="Data Science Ethics">Data Science Ethics</a></td>
+								<td>B. A. G. Collegiate Professor H. V. Jagadish, Electrical Engineering and Computer Science, University of Michigan</td>
 							</tr>
 						</table>
 					</div>
 				</div>
 
-        <div class="row">
-					<h4>edX</h4>
+        <div class="row" id="udacity">
+					<h5><a href="http://udacity.com/sitemap" title="Udacity">Udacity</a></h5>
+					<div class="twelve columns">
+						<table class="u-full-width">
+							<tr>
+								<th>Title, Institution</th>
+								<th>Instructor</th>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/product-design--ud509" title="Product Design: Validation and UX through Design Sprints">Product Design</a>, Google</td>
+								<td>C. Saden</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101" title="Intro to the Design of Everyday Things: Principles of Design">Intro to the Design of Everyday Things</a></td>
+								<td>D. Norman</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/introduction-to-operating-systems--ud923" title="Introduction to Operating Systems">Introduction to Operating Systems</a>, Georgia Tech</td>
+								<td>A. Gavrilovska</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/compilers-theory-and-practice--ud168" title="Compilers: Theory and Practice">Compilers</a>, Georgia Tech</td>
+								<td>C. Gamboa</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/database-systems-concepts-design--ud150" title="Database Systems Concepts & Design">Database Systems Conceps & Design</a>, Georgia Tech</td>
+								<td>L. Mark</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/c-for-programmers--ud210" title="C++ For Programmers: Learn features and constructs for C++">C++ For Programmers</a></td>
+								<td>C. Gamboa</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/front-end-frameworks--ud894" title="Front End Frameworks: Backbone, Angular, Ember">Front End Frameworks</a>, Google</td>
+								<td>R. Kalehoff</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/web-tooling-automation--ud892" title="Web Tooling & Automation: Gulp, Sass, and BabelJS, Oh My!">Web Tooling & Automation</a>, Google</td>
+								<td>P. Bakaus</td>
+							</tr>
+							<tr>
+								<td><a href="" title="Introduction to Relational Databases: SQL, DB-API, and More!">Introduction to Relational Databases</a></td>
+								<td>K. Krueger</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/javascript-design-patterns--ud989" title="JavaScript Design Patterns: Organizing Code in a Disorganized World">JavaScript Design Patterns</a></td>
+								<td>B. Jaffe</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.udacity.com/course/object-oriented-javascript--ud015" title="Object-Oriented JavaScript: Writing Resuable and Maintainable Code">Object-Oriented JavaScript</a>, Hack Reactor</td>
+								<td>M. Wales</td>
+							</tr>
+
+						</table>
+					</div>
+				</div>
+
+        <div class="row" id="edX">
+					<h5><a href="https://www.edx.org" title="edX">edX</a></h5>
 					<div class="twelve columns">
 						<table class="u-full-width">
 							<tr>
 								<th>Title</th>
+								<th>Instructor, Department, Institution</th>
 							</tr>
 							<tr>
 								<td><a href="https://www.edx.org/course/computing-technology-inside-smartphone-cornellx-engri1210x-0" title="The Computing Technology Inside Your Smartphone">The Computing Technology Inside Your Smartphone</a></td>
+								<td>Professor D. Albonesi, Electrical and Computer Engineering, Cornell University</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.edx.org/course/electricity-and-magnetism-electrostatics" title="Electricity and Magnetism: Electrostatics">Electrostatics</a></td>
+								<td>Senior Lecturer P. Dourmashkin, Physics, MIT</td>
+							</tr>
+							<tr>
+								<td><a href="https://www.edx.org/course/mechanics-kinematics-dynamics-mitx-8-01-1x-0" title="Mechanics: Kinetics and Dynamics, Momentum and Energy, Rotational Dynamics">Mechanics</a></td>
+								<td>Professor D. Chakrabarty, Physics, MIT</td>
 							</tr>
 						</table>
 					</div>
 				</div>
 
-        <div class="row">
-					<h4>Udacity</h4>
-					<div class="twelve columns">
-						<table class="u-full-width">
-							<tr>
-								<th>Title</th>
-							</tr>
-							<tr>
-								<td><a href="https://www.udacity.com/course/compilers-theory-and-practice--ud168" title="Compilers: Theory and Practice">Compilers</a></td>
-							</tr>
-						</table>
-					</div>
-				</div>
-
-        <div class="row">
-					<h4>Khan Academy</h4>
+        <div class="row" id="khan">
+					<h5><a href="https://www.khanacademy.org" title="Khan Academy">Khan Academy</a></h5>
 					<div class="twelve columns">
 						<table class="u-full-width">
 							<tr>
@@ -113,7 +205,7 @@
 								<th>Subject</th>
 							</tr>
 							<tr>
-								<td><a href="https://www.khanacademy.org/college-careers-more" title="College Admission, Personal Finance">College Admission, Personal Finance</a></td>	
+								<td><a href="https://www.khanacademy.org/college-careers-more" title="College Admission, Careers, Personal Finance">College Admission, Careers, Personal Finance</a></td>	
 								<td>College, careers, and more</td>
 							</tr>
 							<tr>
@@ -140,8 +232,8 @@
 					</div>
 				</div>
 
-        <div class="row">
-					<h4>Bard College at Simon's Rock</h4>
+        <div class="row" id="bard">
+					<h5><a href="https://simons-rock.edu/students-families/course-catalogues-and-schedules.php" title="Bard College at Simon's Rock: The Early College">Bard College at Simon's Rock</a></h5>
 					<div class="twelve columns">
 						<table class="u-full-width">
 							<tr>
