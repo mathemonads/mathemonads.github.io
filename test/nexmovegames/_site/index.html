@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content=A tactical 2 player card game crafted with the idea of fusing abstract strategy with living card game elements to create a unique genre that involves intense turn based decision making and deep strategical foresight. Lose yourself in the near limitless possibilities as you maneuver around your opponent’s plays and challenge your spatial perception. We’re ready to launch our kickstarter soon! If you want to be the first to know please signup to be on our launch early mailing list and receive a free digital thank you card!
+>
+  <meta name="author" content="Oscar Hernandez">
+
+  <title>Kumasi</title>
+
+  <!-- Bootstrap Core CSS -->
+  <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+  <!-- <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"> -->
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+  <link href="css/bootstrap.css" rel="stylesheet">
+
+
+
+  <!-- Custom CSS -->
+  <link href="css/stylish-portfolio.css" rel="stylesheet">
+
+  <!-- Custom Fonts -->
+  <!-- <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+</head>
+
+
+<body>
+
+  <a id="menu-toggle" href="#" class="btn btn-transparent btn-lg toggle" style="color:gold;"><i class="fa fa-bars"></i></a>
+<nav id="sidebar-wrapper" style="background-color: rgb(0,0,0);">
+  <ul class="sidebar-nav">
+    <a id="menu-close" href="#" class="btn btn-transparent btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
+    <li class="sidebar-brand">
+      <a href="#top"  onclick = $("#menu-close").click(); ><strong>Kumasi</strong></a>
+    </li>
+    <li>
+      <a href="#top" onclick = $("#menu-close").click(); >Home</a>
+    </li>
+    <li>
+      <a href="#about" onclick = $("#menu-close").click(); >About</a>
+    </li>
+    <!-- <li>
+      <a href="#features" onclick = $("#menu-close").click(); >Features</a>
+    </li> -->
+    <li>
+      <a href="#contact" onclick = $("#menu-close").click(); >Contact</a>
+    </li>
+  </ul>
+</nav>
+
+  <header id="top" class="header">
+  <div class="text-vertical-center" style="color: #fff;">
+		<h1>Kumasi</h1>
+    <h3><strong>Gaming is a universal language, right?</strong></h3>
+    <br>
+    <button type="button" class="btn btn-dark btn-lg" data-toggle="modal" data-target="#exampleModal" data-whatever="nexmovegames@gmail.com"><i style="color: var(--main-primary-color);" class="far fa-gem"></i> Agree/Subscribe</button>
+    <a href="#about" class="btn btn-primary btn-lg" ><i style="color: var(--main-dark-color);" class="far fa-gem"></i> Learn More</a>
+  </div>
+
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">Subscribe</h5>
+          <a id="menu-toggle" href="#" class="btn btn-transparent btn-lg toggle" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-times"></i></a>
+
+        </div>
+        <div class="modal-body">
+          <form action="https://formspree.io/98Hernandez.Oscar@gmail.com" method="POST">
+            <div class="form-group text-center">
+              <label for="recipient-email" class="col-form-label">Email: </label>
+              <input type="email" name="_replyto" required size="58%">
+              <span class="validity"></span>
+            </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-dark" data-dismiss="modal">Close</button>
+            <input type="submit" class="btn btn-primary" value="Send">
+          </div>
+        </form>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+  <section id="about" class="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Kumasi is a skill-based two-player card game that will challenge your creativity.</h2>
+        <p class="lead">
+          Be the first to find out when <a href="#contact"><strong>Nex Move Games</strong></a> Kickstarts.
+        </p>
+      </div>
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+
+  <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
+<section id="features" class="services bg-primary">
+  <div class="container">
+    <div class="row text-center">
+      <div class="col-lg-10 col-lg-offset-1">
+	<!--<h2>Four Reasons To Play</h2>
+	<hr class="small">-->
+        <div class="row">
+          <div class="col-md-3 col-sm-6">
+            <div class="service-item">
+              <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-puzzle-piece fa-stack-1x text-primary" style="padding-left:15px"></i>
+            </span>
+              <h4>
+                <strong>Easy-to-learn</strong>
+              </h4>
+              <p>Alternate placing cards. Score points by making four-sided shapes.</p>
+              <a href="#" class="btn btn-light">Learn More</a>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="service-item">
+              <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fas fa-cogs fa-stack-1x text-primary"></i>
+            </span>
+              <h4>
+                <strong>Strategic</strong>
+              </h4>
+              <p>Maneuver through countless configurations. Score points. Block opponent.</p>
+
+              <a href="#" class="btn btn-light">Learn More</a>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="service-item">
+              <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fas fa-gem fa-stack-1x text-primary"></i>
+            </span>
+              <h4>
+                <strong>Beautiful</strong>
+              </h4>
+              <p>Lose yourself in the growing collage as you mark points with cosmic gems.</p>
+              <a href="#" class="btn btn-light">Learn More</a>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="service-item">
+              <span class="fa-stack fa-4x">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fas fa-smile fa-stack-1x text-primary"></i>
+            </span>
+              <h4>
+                <strong>Fun</strong>
+              </h4>
+              <p>Exercise your brain. Celebrate friendship through bouts of rivalry. Play for fun and glory.</p>
+              <a href="#" class="btn btn-light">Learn More</a>
+            </div>
+          </div>
+        </div>
+        <!-- /.row (nested) -->
+      </div>
+      <!-- /.col-lg-10 -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+</section>
+
+  <aside class="callout">
+  <div class="text-vertical-center">
+    <h1></h1>
+  </div>
+</aside>
+
+  <section id="plan" class="plan">
+  <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2>Content Plan</h2>
+        </div>
+      </div>
+      <hr >
+      <ul class="timeline">
+          <li>
+            <div class="timeline-badge success"><i class="fas fa-play"></i></div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4 class="timeline-title">The Birth of Kumasi</h4>
+                <p><small class="text-muted"><i class="far fa-clock"></i> June 13, 2018</small></p>
+              </div>
+              <div class="timeline-body">
+                <p>
+                  Our games emphasize the humanistic aspects of gameplay by fostering deep conversation, facilitating social interaction, and helping friends enjoy life to the fullest.
+                </p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-badge success"><i class="fas fa-code"></i></div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4 class="timeline-title">Website Created!</h4>
+                <p><small class="text-muted"><i class="far fa-clock"></i> June 16, 2018</small></p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-badge warning"><i class="fab fa-kickstarter-k"></i></div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4 class="timeline-title">Kickstarter Campaign</h4>
+                <p><small class="text-muted"><i class="far fa-clock"></i> January 1, 2018</small></p>
+              </div>
+              <div class="timeline-body">
+                <p>
+                  We’re ready to launch our kickstarter soon! If you want to be the first to know please signup to be on our launch early mailing list and receive a free digital thank you card!
+                </p>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div class="timeline-badge danger"><i class="fas fa-hand-holding-heart"></i></div>
+            <div class="timeline-panel">
+              <div class="timeline-heading">
+                <h4 class="timeline-title">Make the world a better place through high-quality games.</h4>
+                <p><small class="text-muted"><i class="far fa-clock"></i> January 1, 2018</small></p>
+              </div>
+              <div class="timeline-body">
+                <p>
+                  In progress ...
+                </p>
+              </div>
+            </div>
+          </li>
+      </ul>
+  </div>
+</section>
+<style>
+.timeline {
+    list-style: none;
+    padding: 20px 0 20px;
+    position: relative;
+}
+
+    .timeline:before {
+        top: 0;
+        bottom: 0;
+        position: absolute;
+        content: " ";
+        width: 3px;
+        background-color: #eeeeee;
+        left: 10%;
+        margin-left: -1.5px;
+    }
+
+    .timeline > li {
+        margin-bottom: 20px;
+        position: relative;
+    }
+
+        .timeline > li:before,
+        .timeline > li:after {
+            content: " ";
+            display: table;
+        }
+
+        .timeline > li:after {
+            clear: both;
+        }
+
+        .timeline > li:before,
+        .timeline > li:after {
+            content: " ";
+            display: table;
+        }
+
+        .timeline > li:after {
+            clear: both;
+        }
+
+                .timeline > li > .timeline-panel {
+                    width: 85%;
+                    float: right;
+                    border: 1px solid #d4d4d4;
+                    border-radius: 2px;
+                    padding: 20px;
+                    position: relative;
+                    -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+                    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+                }
+
+                    .timeline > li > .timeline-panel:before {
+                        position: absolute;
+                        top: 26px;
+                        left: -15px;
+                        display: inline-block;
+                        border-top: 15px solid transparent;
+                        border-right: 15px solid #ccc;
+                        border-left: 0 solid #ccc;
+                        border-bottom: 15px solid transparent;
+                        content: " ";
+                    }
+
+                    .timeline > li > .timeline-panel:after {
+                        position: absolute;
+                        top: 26px;
+                        left: -15px;
+                        display: inline-block;
+                        border-top: 15px solid transparent;
+                        border-right: 15px solid #fff;
+                        border-left: 0 solid #fff;
+                        border-bottom: 14px solid transparent;
+                        content: " ";
+                    }
+
+        .timeline > li > .timeline-badge {
+            color: #fff;
+            width: 50px;
+            height: 50px;
+            line-height: 50px;
+            font-size: 1.4em;
+            text-align: center;
+            position: absolute;
+            top: 15%;
+            left: 10%;
+            margin-left: -25px;
+            background-color: #999999;
+            z-index: 100;
+            border-top-right-radius: 50%;
+            border-top-left-radius: 50%;
+            border-bottom-right-radius: 50%;
+            border-bottom-left-radius: 50%;
+        }
+
+        /* .timeline > li.timeline > .timeline-panel {
+            float: right;
+        }
+
+            .timeline > li.timeline > .timeline-panel:before {
+                border-left-width: 0;
+                border-right-width: 15px;
+                left: -15px;
+                right: auto;
+            }
+
+            .timeline > li.timeline > .timeline-panel:after {
+                border-left-width: 0;
+                border-right-width: 14px;
+                left: -14px;
+                right: auto;
+            } */
+
+.timeline-badge.primary {
+    background-color: #2e6da4 !important;
+}
+
+.timeline-badge.success {
+    background-color: #3f903f !important;
+}
+
+.timeline-badge.warning {
+    background-color: #f0ad4e !important;
+}
+
+.timeline-badge.danger {
+    /* background-color: #d9534f !important; */
+    background-color: #337ab7 !important;
+}
+
+.timeline-badge.info {
+    background-color: #5bc0de !important;
+}
+
+.timeline-title {
+    margin-top: 0;
+    color: inherit;
+}
+
+.timeline-body > p,
+.timeline-body > ul {
+    margin-bottom: 0;
+}
+
+    .timeline-body > p + p {
+        margin-top: 5px;
+    }
+
+@media (max-width: 767px) {
+    ul.timeline:before {
+        left: 40px;
+    }
+
+    ul.timeline > li > .timeline-panel {
+        width: calc(100% - 90px);
+        width: -moz-calc(100% - 90px);
+        width: -webkit-calc(100% - 90px);
+    }
+
+    ul.timeline > li > .timeline-badge {
+        left: 15px;
+        margin-left: 0;
+        top: 16px;
+    }
+
+    ul.timeline > li > .timeline-panel {
+        float: right;
+    }
+
+        ul.timeline > li > .timeline-panel:before {
+            border-left-width: 0;
+            border-right-width: 15px;
+            left: -15px;
+            right: auto;
+        }
+
+        ul.timeline > li > .timeline-panel:after {
+            border-left-width: 0;
+            border-right-width: 14px;
+            left: -14px;
+            right: auto;
+        }
+}
+</style>
+
+  <aside class="call-to-action bg-primary">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h3>Ready to take your craft brewery to the <strong>Nex</strong>t level?</h3>
+	      <p class="lead">
+          We’re currently developing and refining games specifically designed for craft brewhouses. <br>
+          Learn more about our cutting-edge games that encourage repeat buying patterns while increasing your brand awareness.
+        </p>
+        <!--<a href="#" class="btn btn-lg btn-light">Click Me!</a>
+	<a href="#" class="btn btn-lg btn-dark">Look at Me!</a>-->
+      </div>
+    </div>
+  </div>
+</aside>
+
+  <footer id="contact">
+  <div class="container">
+
+    <div class="row">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <img src="img/logo.png" alt="Nex Move Games" width="50%" style="margin:-15%; margin-top:-20%;">
+          <h3><strong>Nex Move Games</strong> is a startup gaming company that aims to reinvent how we interact with each other and games.</h3>
+          <p class="lead">
+            We firmly believe that gaming is an integral part of our personal development and facilitates friendship, conversation, and enjoyment. While our current product offerings are in the board game space we also aim to develop innovative apps, and indie games that help re-imagine the gaming space.
+          </p>
+          <!--<a href="#" class="btn btn-lg btn-light">Click Me!</a>
+    <a href="#" class="btn btn-lg btn-dark">Look at Me!</a>-->
+        </div>
+      </div>
+    </div>
+    <hr>
+
+    <div class="row">
+      <div class="col-sm-4 text-center">
+        <h4><strong>Mark &mdash; Fearless Leader</strong></h4>
+        <img src="img/mark.jpg" width="50%"/>
+        <p>
+Mark has a chemical engineering degree with an emphasis in nanotechnology and an MBA. But mainly he spends his time nerding out on the latest tech, aquariums, marine biology, material science, legos, and games. He regularly suffers from wanderlust, and insomnia which has led him across the world on several occasions. On his trips, he would often find many different types of games people play to get to know each other and to enjoy new friends.
+        </p>
+        <ul class="list-unstyled">
+          <li><i class="far fa-envelope fa-fw"></i>  <a href="mailto:nexmovegames@gmail.com">nexmovegames@gmail.com</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-sm-4 text-center">
+        <h4><strong>Mario &mdash; Community Builder</strong></h4>
+        <img src="img/mark.jpg" width="50%"/>
+        <p>
+Mario Sepulveda graduated with an Animal Science and an American History degree from UC Davis. He loved playing board games with friends in college and even made some of his own (really dumb) board games as a child. He is passionate about understanding people in poverty and listening to people, and this naturally lead him to joining the Peace Corps. Mark, the owner, joined him abroad and together they connected with people via games and dialogue.
+        </p>
+        <i class="far fa-envelope fa-fw"></i>  <a href="mailto:nexmovegames@gmail.com">nexmovegames@gmail.com</a>
+      </div>
+      <div class="col-sm-4 text-center">
+        <h4><strong>Curtis &mdash; Game Designer</strong></h4>
+        <img src="img/mark.jpg" width="50%"/>
+        <p>
+Curtis is a construction engineer with a degree in civil engineering from Cal Poly, San Luis Obispo. As an introvert, he has found his love of games is a fun way to connect with others. His love of games starts with the mechanics of the game and how they make gameplay "tick." Curtis enjoys finding unconventional ways of playing (and hopefully winning) the games that he learns. He currently lives in Indio, CA with his amazing wife (yes, she plays games!) and rascal of a puppy.
+        </p>
+        <i class="far fa-envelope fa-fw"></i>  <a href="mailto:nexmovegames@gmail.com">nexmovegames@gmail.com</a>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm-4 text-center">
+        <!-- <img src="img/logo.png" alt="Nex Move Games" width="100%" style="margin:-25%;"> -->
+      </div>
+      <div class="col-sm-4 text-center">
+        <h4><strong>Nex Move Games</strong>
+        </h4>
+        <p>
+          
+          ExCITE Riverside<br>
+          
+          3499 Tenth St, Riverside, 92501<br>
+          
+        </p>
+        <ul class="list-unstyled">
+          <li><i class="fas fa-phone fa-fw"></i> <a href="tel:16469613715">16469613715</a></li>
+          <li><i class="far fa-envelope-open fa-fw"></i>  <a href="mailto:nexmovegames@gmail.com">nexmovegames@gmail.com</a>
+          </li>
+        </ul>
+        <ul class="list-inline">
+          <li><a href="https://facebook.com/NexMoveGames"><i class="fab fa-facebook fa-fw fa-3x"></i></a></li>
+          <li><a href="https://twitter.com/NexMoveGames"><i class="fab fa-twitter fa-fw fa-3x"></i></a></li>
+          <li><a href="https://instagram.com/NexMoveGames"><i class="fab fa-instagram fa-fw fa-3x"></i></a></li>
+          <li><a href="https://www.linkedin.com/company/18060715/"><i class="fab fa-linkedin fa-fw fa-3x"></i></a></li>
+          <li><a href="https://www.youtube.com/channel/UCEltxOLQhSyPiJGJ0sJHmWg/"><i class="fab fa-youtube fa-fw fa-3x"></i></a></li>
+          <!-- <li>
+            <a href="https://github.com/mathemonads"><i class="fa fa-github fa-fw fa-3x"></i></a>
+          </li> -->
+        </ul>
+        <hr >
+        <p class="text-muted">Copyright &copy; Oscar Hernandez 2018</p>
+      </div>
+      <div class="col-sm-4 text-center">
+        <!-- <img src="img/logo.png" alt="Nex Move Games" width="100%" style="margin: -25%;"> -->
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <!-- jQuery -->
+<script src="js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="js/custom.js"></script> 
+
+  
+</body>
+
+</html>
