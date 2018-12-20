@@ -10,7 +10,7 @@ Oscar solves hard problems by building automated hardware/software systems and i
 ## Bio
 As an undergraduate, he studied liberal arts and graduated from Bard College at Simon's Rock with a _Bachelor of Arts_ in mathematics and computer science in the spring of 2017. Since then, he's gained valuable experience freelancing his services as a full-stack software engineer and system administrator. He continues to learn [science](/science.html "formal, natural, and applied sciences"), and is now especially interested in embarking on projects with mechanical and electrical components.
 
-For previous projects, see [Portfolio](/portfolio.html "Portfolio").
+For previous projects, see [Portfolio](/portfolio "Portfolio").
 
 ## Now
 
