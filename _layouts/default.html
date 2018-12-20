@@ -1,87 +1,99 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
+
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  </head>
-  <body style="height: 100%;">
+</head>
+
+<body style="height: 100%;">
     <div class="wrapper" style="height: 100%;">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-        <!--<img src="{{site.logo | relative_url}}" alt="Logo" />-->
-              <style>
-        #hero-image {
-            background: linear-gradient(to top, #fff, transparent, transparent, transparent), url("{{site.logo | relative_url}}") no-repeat;
-            background-size: 100%;
-        }
-    </style>
+        <header>
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-          <div id="hero-image" style="height:350px">
-          </div>
+            {% if site.logo %}
+            <!--<img src="{{site.logo | relative_url}}" alt="Logo" />-->
+            <style>
+                #hero-image {
+                    background: linear-gradient(to top, #fff, transparent, transparent, transparent),
+                    url("{{site.logo | relative_url}}") no-repeat;
+                    background-size: 100%;
+                }
+            </style>
 
-        {% endif %}
+            <div id="hero-image" style="height:350px">
+            </div>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+            {% endif %}
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+            <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p class="view" style="font-size: 200%; width: 100%; text-align: center;">
-            <a href="mailto:98Hernandez.Oscar@gmail.com" title="98Hernandez.Oscar@gmail.com"><i class="fas fa-envelope"></i></a>
-            <a href="https://www.facebook.com/philosophunctor" title="philosophunctor"><i class="fab fa-facebook"></i></a>
-            <a href="https://github.com/mathemonads" title="mathemonads"><i class="fab fa-github"></i></a>
-            <a href="https://plus.google.com/u/0/+OscarHernandez13" title="OscarHernandez13"><i class="fab fa-google-plus"></i></a>
-            <a href="https://www.linkedin.com/in/philosophunctor/" title="philosophunctor"><i class="fab fa-linkedin"></i></a>
-            <a href="tel:+16469613715" title="+1 (646) 961-3715"><i class="fas fa-phone"></i></a>
-            <a href="https://twitter.com/philosophunctor" title="philosophunctor"><i class="fab fa-twitter"></i></a>
-        </p>
+            {% if site.github.is_project_page %}
+            <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+            {% endif %}
 
-        <!--{% if site.github.is_user_page %}
+            <p class="view" style="font-size: 200%; width: 100%; text-align: center;">
+                <a href="mailto:98Hernandez.Oscar@gmail.com" title="98Hernandez.Oscar@gmail.com"><i class="fas fa-envelope"></i></a>
+                <a href="https://www.facebook.com/philosophunctor" title="philosophunctor"><i class="fab fa-facebook"></i></a>
+                <a href="https://github.com/mathemonads" title="mathemonads"><i class="fab fa-github"></i></a>
+                <a href="https://plus.google.com/u/0/+OscarHernandez13" title="OscarHernandez13"><i class="fab fa-google-plus"></i></a>
+                <a href="https://www.linkedin.com/in/philosophunctor/" title="philosophunctor"><i class="fab fa-linkedin"></i></a>
+                <a href="tel:+16469613715" title="+1 (646) 961-3715"><i class="fas fa-phone"></i></a>
+                <a href="https://twitter.com/philosophunctor" title="philosophunctor"><i class="fab fa-twitter"></i></a>
+            </p>
+
+            <!--{% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}-->
 
-        {% if site.show_downloads %}
-        <!--<ul class="downloads">
+            {% if site.show_downloads %}
+            <!--<ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
           <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>-->
-        {% endif %}
-      </header>
-      <section style="display: table-cell; vertical-align: middle; height: 100%;">
+            {% endif %}
+        </header>
+        <section style="display: table-cell; vertical-align: middle; height: 100%;">
 
-      {{ content }}
+            {{ content }}
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small><a title="CC0">&#169;</a> Oscar Hernandez 2018<!--&mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>--></small></p>
-      </footer>
+        </section>
+        <footer>
+            {% if site.github.is_project_page %}
+            <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+            {% endif %}
+            <p><small><a title="CC0">&#169;</a> Oscar Hernandez 2018
+                    <!--&mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>--></small></p>
+        </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
     </script>
     {% endif %}
-  </body>
+</body>
+
 </html>
