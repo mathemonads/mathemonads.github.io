@@ -1,13 +1,11 @@
 ---
 layout: post
-title: A Quick Glance on the Industrial Internet of Things
-subtitle: A Quick Glance
+title: A Quick Glance at the Industrial Internet of Things
 author: Oscar Hernandez
 ---
 
-A true liberal artist, I drive everyone crazy with vague questions about where humanity comes from, who we are now, and where we're inevitably headed.
-Some highlights include the beginning of the universe, life on Earth, evolution to humans, the agricultural revolution, the first industrial revolution, the advent of mass production, and the imperialism of electricity, computers, robotics, and automation.
-Influenced by my friend and colleague Chris Hernandez, I am now especially interested in the fourth industrial revolution which is the current trend of automation and interconnection in manufacturing -- read his article on the [big problems in manufacturing](link "title").
+Humanity, as we know it, has been shaped by the agricultural revolution, the first industrial revolution, the advent of mass production, and the imperialism of electricity, computers, robotics, and automation.
+Influenced by my friend and colleague Chris Hernandez, I am now especially interested in the fourth industrial revolution which is the current trend of automation and interconnection in manufacturing -- read his article on the [big problems in manufacturing](# "title").
 In this article, I'll discuss three major solutions the Internet of Things has to offer revolutionary manufacturers.
 
 ## Yesterday
@@ -44,5 +42,5 @@ I hate driving cars and I'm sure I'd hate driving a forklift, so I'm pushing for
 I hate reading long-winded manuals -- I, like many, would rather strap on friendly augmented reality goggles to teach me what I need to do.
 
 ## Call to action
-As a budding entrepreneurial engineer, I'm excited to help manufacturers adopt IoT. As an ambitious computer engineer, I get to learn bleeding-edge [network theory](http://math.ucr.edu/home/baez/networks/ "Network Theory"), program [robots' operating systems](http://www.ros.org/), make them smart with AI, build web apps for them to talk to the internet and humans, and partner with mechanical and systems engineers to bring them to life. 
+As a budding entrepreneurial engineer, I'm excited to help manufacturers adopt IoT. As an ambitious computer engineer, I get to learn bleeding-edge [network theory](http://math.ucr.edu/home/baez/networks/ "Network Theory"), program [robots' operating systems](http://www.ros.org/), make them smart with AI, build web apps enabling internet communication with humans and machines, and partner with mechanical and systems engineers to bring them to life. 
 It's a brave new world, and I want to help manufacturers taste the fruit.
