@@ -5,7 +5,7 @@ author: Oscar Hernandez
 ---
 
 Humanity, as we know it, has been shaped by the agricultural revolution, the first industrial revolution, the advent of mass production, and the imperialism of electricity, computers, robotics, and automation.
-Influenced by my friend and colleague Chris Hernandez, I am now especially interested in the fourth industrial revolution which is the current trend of automation and interconnection in manufacturing -- read his article on the [big problems in manufacturing](# "title").
+Influenced by my friend and colleague Chris Hernandez, I am now especially interested in the fourth industrial revolution which is the current trend of automation and interconnection in manufacturing -- read his article on the [big problems in manufacturing](# "Advancing Manufacturing in the era of Tech").
 In this article, I'll discuss three major solutions the Internet of Things has to offer revolutionary manufacturers.
 
 ## Background
@@ -37,7 +37,7 @@ Now that we can diagnose and prevent pitfalls, you should aim to manage your wor
 
 
 ## Tomorrow
-Optimizing your workflow is, of course, also very difficult -- that's why we'll master it tomorrow, and why we're developing it today.
+Optimizing your processes is, of course, also very difficult -- I recommend Xavier Hernandez's article on [fully automated warehouses](# "Warehouse 4.0").
 Rudimentarily, this means programming robots to do stuff and teaching humans how to work around it.
 There are also developments in programming human-and-robots distributed operating systems, so that robots account for and collaborate with humans.
 I'm excited for humans to stop doing robotic things, and start doing human things.
@@ -45,6 +45,6 @@ I hate clocking in my hours -- I wish I could just download a concise human-read
 I hate driving cars and I'm sure I'd hate driving a forklift, so I'm pushing for the advent of autonomous vehicles that drive themselves.
 I hate reading long-winded manuals -- I, like many, would rather strap on friendly augmented reality goggles to teach me what I need to do.
 
-## Call to action
-As a budding entrepreneurial engineer, I'm excited to help manufacturers adopt IoT. As an ambitious computer engineer, I get to learn bleeding-edge [network theory](http://math.ucr.edu/home/baez/networks/ "Network Theory"), program [robots' operating systems](http://www.ros.org/), make them smart with AI, build web apps enabling internet communication with humans and machines, and partner with mechanical and systems engineers to bring them to life. 
+## Personal Call to Action
+As an ambitious computer engineer, I get to learn bleeding-edge [network theory](http://math.ucr.edu/home/baez/networks/ "Network Theory"), program [robots' operating systems](http://www.ros.org/), build web apps enabling internet communication with humans and machines, and partner with other mechanical, systems, and software engineers to bring them to life. 
 It's a brave new world, and I want to help manufacturers taste the fruits of IoT, AI, and AR.
