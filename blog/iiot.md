@@ -11,7 +11,7 @@ In this article, I'll discuss three major solutions the Internet of Things has t
 ## Background
 The Internet of Things is the network of electronic devices that connect, interact, and exchange data across the internet.
 A typical manufacturer relies on the internet heavily to find and interview employees, set their schedule, pay them, record the facility's performance and finances, identify raw materials, where and how to acquire them, how to compose them to build more valuable goods, who would want them, how to sell it to them, and evaluate their level of satisfaction.
-However, customers never have a perfect picture of what they truly need, manufacturers don't understand exactly how their goods are being used and under what conditions, which causes grief to engineers and designers in charge of improving their goods.
+However, customers never have a perfect picture of what they truly need, manufacturers don't understand exactly how their goods are being used, both of which cause grief to the engineers and designers in charge of improving their goods.
 Of course, smart phone manufacturers and mobile app developers record information including the frequency and duration of product's usage, which allows them to A/B test new features.
 What can manufacturers learn from that?
 
@@ -33,7 +33,7 @@ On a car, this means using all of your sensors (tire pressure, check engine, oil
 For a facility with a battery management system and an unusually large energy bill, this means feeding the relevant data to an AI algorithm to control when to charge/discharge the battery.
 Often, a simple camera is a great sensor -- for a primer, I recommend Rany Tith's article on [Computer Vision](# "title"). 
 All that being said, data is often sparse or unintelligble, and it's very difficult to gain valuable understanding from it; that's why fields like AI and data science are popular and important.
-Now that we can diagnose and prevent pitfalls, you should aim to manage your workflow to optimize for resource usage, including human labor, cost, energy, and time.
+Now that we can diagnose and prevent pitfalls, you should aim to manage your processes to optimize for resource usage, including human labor, cost, energy, and time.
 
 
 ## Tomorrow
