@@ -36,6 +36,7 @@ Introduction to Operating Systems, Georgia Tech | A. Gavrilovska
 Compilers, Georgia Tech | C. Gamboa
 Programming Languages | W. Eeimer
 Database Systems Concepts & Design, Georgia Tech | L. Mark
+Google MAPS APIs, Google | Emily Keller
 Front End Frameworks, Google | R. Kalehoff
 Web Tooling & Automation, Google | P. Bakaus
 Introduction to Relational Databases | K. Krueger
