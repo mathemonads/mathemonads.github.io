@@ -108,10 +108,10 @@ Structure and Interpretation of Computer Programs | H. Abelson, Electrical Engin
 
 Titles | Subject
 --- | ---
-College Admission, Careers, Personal Finance | College, careers, and more
 Microeconomics, Macroeconomics, Finance & Capital Markets | Economics & Finance
 Grammar, World History, US History, US Government and Politics | Arts & Humanities
 Computer Programming | Computing
 Chemistry, AP Physics 2, Cosmology & Astronomy | Science
 K-8th Grades Math | Math
 
+[comment]: <> (College Admission, Careers, Personal Finance)
