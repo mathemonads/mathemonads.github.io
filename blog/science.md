@@ -14,4 +14,4 @@ He plans on steadily filling the gaps by learning traditional electrical enginee
 
 ## Execution
 He works as a computer engineer, and freelances his services as a full-stack developer, system administrator and webmaster.
-He also dedicates time to a few [e-courses](/portfolio/courses) including [Social Psychology](https://www.coursera.org/learn/social-psychology "Social Psychology") and [Galois Theory](https://www.coursera.org/learn/galois/ "Introduction to Galois Theory").
+He also dedicates time to a few [e-courses](/portfolio/courses). 

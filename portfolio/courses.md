@@ -6,7 +6,6 @@ layout: default
 
 Title | Platform
 --- | ---
-Social Psychology | [Coursera](/portfolio/courses#coursera "Coursera")
 Introduction to Galois Theory | [Coursera](/portfolio/courses#coursera "Coursera")
 
 # Previous
@@ -115,3 +114,4 @@ Chemistry, AP Physics 2, Cosmology & Astronomy | Science
 K-8th Grades Math | Math
 
 [comment]: <> (College Admission, Careers, Personal Finance)
+[comment]: <> (Social Psychology)
