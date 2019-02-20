@@ -7,6 +7,8 @@ layout: default
 
 Some of Oscar's current projects include:
 - developing [Robot Operating System](https://wiki.ros.org/) apps for [ARKS](https://arks.tech/) 
+- building a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system "Geopgraphic information system") Django.py app for a logistics client 
+- bulding a website for a construction client
 - continually upgrading [TanVivo](https://tanvivo.com/)'s Flask.py app
 - building a [CRUD](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete "Create, read, update, and delete") app on the [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29 "Linux Apache MySQL PHP") stack, and deploying to the [GCP](https://cloud.google.com/ "Google Cloud Platform") 
 - maintaining all 19 websites+ for a public policy institute
