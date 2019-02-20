@@ -2,13 +2,6 @@
 title: Courses 
 layout: default
 ---
-# Now 
-
-Title | Platform
---- | ---
-Introduction to Galois Theory | [Coursera](/portfolio/courses#coursera "Coursera")
-
-# Previous
 
 Title | Instructor, Institution 
 --- | ---
