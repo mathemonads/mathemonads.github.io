@@ -15,8 +15,10 @@ Title | Instructor, Department, Institution
 --- | ---
 Bayesian Statistics | H. Lee, Applied Mathematics and Statistics, UC Santa Cruz
 Machine Learning | A. Ng, Coursera
+The Bits and Bytes of Computer Networking | Google
 Game Theory | M. O. Jackson, Economics, Stanford University
 Data Science Ethics | H. V. Jagadish, Electrical Engineering and Computer Science, University of Michigan
+Technical Support Fundamentals | Google
 
 ## [Udacity](https://www.udacity.com/ "Udacity")
 
