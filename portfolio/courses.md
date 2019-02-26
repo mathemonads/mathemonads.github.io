@@ -15,6 +15,7 @@ Title | Instructor, Department, Institution
 --- | ---
 Bayesian Statistics | H. Lee, Applied Mathematics and Statistics, UC Santa Cruz
 Machine Learning | A. Ng, Coursera
+System Administration and IT Infrastructure Services | Google
 Operating Systems and You | Google
 The Bits and Bytes of Computer Networking | Google
 Game Theory | M. O. Jackson, Economics, Stanford University
