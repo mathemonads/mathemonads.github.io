@@ -7,6 +7,7 @@ Title | Instructor, Institution
 --- | ---
 Category Theory Seminar | J. Baez, [UC Riverside Department of Mathematics](http://math.ucr.edu/home/baez/)
 Introduction To SWI-Prolog | A. Ogborn, [SWI-Prolog](https://edu.swi-prolog.org/ "SWI-Prolog Education")
+Blockchain Theory 101 | M. Swan, [Udemy](https://www.udemy.com/ "Udemy")
 
 
 ## [Coursera](https://www.coursera.org/ "Coursera")
@@ -15,9 +16,11 @@ Title | Instructor, Department, Institution
 --- | ---
 Bayesian Statistics | H. Lee, Applied Mathematics and Statistics, UC Santa Cruz
 Machine Learning | A. Ng, Coursera
+IT Security: Defense against the digital dark arts | Google
 System Administration and IT Infrastructure Services | Google
 Operating Systems and You | Google
 The Bits and Bytes of Computer Networking | Google
+Coursera Mentor Community and Training Course | Coursera
 Game Theory | M. O. Jackson, Economics, Stanford University
 Data Science Ethics | H. V. Jagadish, Electrical Engineering and Computer Science, University of Michigan
 Technical Support Fundamentals | Google
