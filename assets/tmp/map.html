@@ -21,48 +21,51 @@
     <div id="map"></div>
     <script>
         var map;
-        //function initMap() {
-        //  // Constructor creates a new map - only center and zoom are required.
-        //  map = new google.maps.Map(document.getElementById('map'), {
-        //    center: {lat: 40.7413549, lng: -73.9980244},
-        //    zoom: 13
-        //  });
-        //}
+        function api(city){
+            return `https://nominatim.openstreetmap.org/search.php?q=${city}+California+United+States&polygon_geojson=1&format=json`
+        }
 
         function initMap() {
             // Define the LatLng coordinates for the polygon's path.
             var map = new google.maps.Map(document.getElementById('map'), {
-                zoom: 10,
+                zoom: 10.5,
                 center: {
-                    lat: 34.022980,
-                    lng: -117.900190
+                    lat: 33.989819,
+                    lng: -117.594429
                 },
                 mapTypeId: 'terrain'
             });
 
-            fetch('https://nominatim.openstreetmap.org/search.php?q=Corona+California+United+States&polygon_geojson=1&format=json')
-                .then((res) => res.json())
-                .then((res) => {
-                    var city = res[0];
-                    console.log(city.display_name);
-                    coords = city.geojson.coordinates[0].map(c => ({
-                        lat: c[1],
-                        lng: c[0]
-                    }));
-                    //console.log(JSON.stringify(coords, null, 2))
-
-
-                    // Construct the polygon.
-                    var polygon = new google.maps.Polygon({
-                        paths: coords,
-                        strokeColor: '#FF0000',
-                        strokeOpacity: 0.8,
-                        strokeWeight: 2,
-                        fillColor: '#FF0000',
-                        fillOpacity: 0.35
+            function draw(city, color){
+                fetch(api(city))
+                    .then((res) => res.json())
+                    .then((res) => {
+                        coords = res[0].geojson.coordinates[0].map(c => ({
+                            lat: c[1],
+                            lng: c[0]
+                        }));
+                        if (city.includes('Covina')){
+                            coords = res[1].geojson.coordinates[0][0].map(c=> ({lat:c[1], lng: c[0]}));
+                        }
+    
+    
+                        // Construct the polygon.
+                        var polygon = new google.maps.Polygon({
+                            paths: coords,
+                            strokeColor: color,
+                            strokeOpacity: 0.8,
+                            strokeWeight: 2,
+                            fillColor: color,
+                            fillOpacity: 0.35
+                        });
+                        polygon.setMap(map);
                     });
-                    polygon.setMap(map);
-                });
+
+            }
+            draw('Moreno+Valley', '#FF0000')
+            draw('Covina', 'green')
+            draw('Azusa', '#FF0000')
+            draw('Arcadia', '#FF0000')
         }
     </script>
 
