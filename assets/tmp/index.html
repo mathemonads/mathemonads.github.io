@@ -14,6 +14,7 @@
         #map {
             height: 100%;
         }
+
     </style>
 </head>
 
@@ -21,7 +22,8 @@
     <div id="map"></div>
     <script>
         var map;
-        function api(city){
+
+        function api(city) {
             return `https://nominatim.openstreetmap.org/search.php?q=${city}+California+United+States&polygon_geojson=1&format=json`
         }
 
@@ -36,7 +38,7 @@
                 mapTypeId: 'terrain'
             });
 
-            function draw(city, color){
+            function draw(city, color) {
                 fetch(api(city))
                     .then((res) => res.json())
                     .then((res) => {
@@ -44,11 +46,11 @@
                             lat: c[1],
                             lng: c[0]
                         }));
-                        if (city.includes('Covina')){
-                            coords = res[1].geojson.coordinates[0][0].map(c=> ({lat:c[1], lng: c[0]}));
+                        if (city.includes('Covina')) {
+                            coords = res[1].geojson.coordinates[0][0].map(c => ({ lat: c[1], lng: c[0] }));
                         }
-    
-    
+
+
                         // Construct the polygon.
                         var polygon = new google.maps.Polygon({
                             paths: coords,
@@ -67,6 +69,7 @@
             draw('Azusa', '#FF0000')
             draw('Arcadia', '#FF0000')
         }
+
     </script>
 
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAaGsRExNit_9JAb_X2_oxRUwjgniApjSw&v=3&callback=initMap">

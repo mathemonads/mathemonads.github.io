@@ -3,6 +3,11 @@ title: Courses
 layout: default
 ---
 
+## Soon
+
+I'm reading about neural networks, and may take a related class.
+
+## Highlights
 Title | Instructor, Institution 
 --- | ---
 Category Theory Seminar | J. Baez, [UC Riverside Department of Mathematics](http://math.ucr.edu/home/baez/)

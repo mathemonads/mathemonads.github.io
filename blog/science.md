@@ -13,5 +13,4 @@ He currently approaches engineering from the theoretical and applied extremes by
 He plans on steadily filling the gaps by learning traditional electrical engineering and gaining hands-on experience with mechanical engineering design.
 
 ## Execution
-He works as a computer engineer, and freelances his services as a full-stack developer, system administrator and webmaster.
-He also dedicates time to a few [e-courses](/portfolio/courses). 
+He works as a computer engineer, freelances his services as a full-stack developer, system administrator and webmaster, and researches artificial intelligence.
