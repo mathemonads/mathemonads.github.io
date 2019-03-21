@@ -3,17 +3,12 @@ title: Courses
 layout: default
 ---
 
-## Soon
+## Favorites
 
-I'm reading about neural networks, and may take a related class.
-
-## Highlights
 Title | Instructor, Institution 
 --- | ---
 Category Theory Seminar | J. Baez, [UC Riverside Department of Mathematics](http://math.ucr.edu/home/baez/)
 Introduction To SWI-Prolog | A. Ogborn, [SWI-Prolog](https://edu.swi-prolog.org/ "SWI-Prolog Education")
-Blockchain Theory 101 | M. Swan, [Udemy](https://www.udemy.com/ "Udemy")
-
 
 ## [Coursera](https://www.coursera.org/ "Coursera")
 
@@ -59,6 +54,14 @@ Vibrations and Waves | Y-J Lee, Physics, MIT
 Electricity and Magnetism | Lecturer P. Dourmashkin, Physics, MIT
 Mechanics | D. Chakrabarty, Physics, MIT
 Structure and Interpretation of Computer Programs | H. Abelson, Electrical Engineering and Computer Science, MIT
+
+## [Udemy](https://www.udemy.com/ "Udemy")
+
+Title | Instructor
+--- | ---
+Blockchain Theory 101 | M. Swan
+Introduction to Financial Accounting | T. Vipond
+
 
 ## [Bard College at Simon's Rock](https://simons-rock.edu/ "Bard College at Simon's Rock: the Early College")
 
