@@ -3,6 +3,12 @@ title: Courses
 layout: default
 ---
 
+## Now
+
+Title | Institution
+--- | ---
+Computer Vision | Udacity
+
 ## Favorites
 
 Title | Instructor, Institution 
@@ -16,44 +22,31 @@ Title | Instructor, Department, Institution
 --- | ---
 Bayesian Statistics | H. Lee, Applied Mathematics and Statistics, UC Santa Cruz
 Machine Learning | A. Ng, Coursera
-IT Security: Defense against the digital dark arts | Google
-System Administration and IT Infrastructure Services | Google
-Operating Systems and You | Google
-The Bits and Bytes of Computer Networking | Google
+IT Support Professional Certificate | Google
 Coursera Mentor Community and Training Course | Coursera
 Game Theory | M. O. Jackson, Economics, Stanford University
 Data Science Ethics | H. V. Jagadish, Electrical Engineering and Computer Science, University of Michigan
-Technical Support Fundamentals | Google
+Philosophy, Science, and Religion: Science and Philosophy | A. Carter, The University of Edinburgh 
 
 ## [Udacity](https://www.udacity.com/ "Udacity")
 
-Product Design, Google | C. Saden
-Intro to the Design of Everyday Things | D. Norman
-Introduction to Psychology, San Jose State University | S. Snycerski
+Intro to the Design of Everyday Things; Product Design, Google | D. Norman; C. Saden
 Networking for Web Developers | K. Krueger
 Introduction to Operating Systems, Georgia Tech | A. Gavrilovska
-Compilers, Georgia Tech | C. Gamboa
-Programming Languages | W. Eeimer
-Database Systems Concepts & Design, Georgia Tech | L. Mark
-Google Maps APIs, Google | Emily Keller
-Front End Frameworks, Google | R. Kalehoff
-Web Tooling & Automation, Google | P. Bakaus
-Introduction to Relational Databases | K. Krueger
-JavaScript Design Patterns | B. Jaffe
-Object-Oriented JavaScript, Hack Reactor | M. Wales
-C++ For Programmers | C. Gamboa
+Programming Languages; Compilers, Georgia Tech | W. Eeimer; C. Gamboa
+Introduction to Relational Databases; Database Systems Concepts & Design, Georgia Tech | K. Krueger; L. Mark
+C++ For Programmers; Object-Oriented JavaScript, Hack Reactor; JavaScript Design Patterns; Front End Frameworks; Google Maps APIs, Google | C. Gamboa; M. Wales; B. Jaffe; R. Kalehoff; E. Keller
+Linux Command Line Basics; Web Tooling & Automation, Google | P. Mallory; P. Bakaus
+Introduction to Psychology, San Jose State University | S. Snycerski
 
 ## [edX](https://www.edx.org/ "edX")
 
-Title | Instructor, Department, Institution
+Title | Instructor, Institution
 --- | ---
 Paradox and Infinity | A. Rayo, Philosophy, MIT
-The Computing Technology Inside Your Smartphone | D. Albonesi, Electrical and Computer Engineering, Cornell University 
-The Basics of Transport Phenomena | R. Mudde, Chemical Engineering, Delft University of Technology
-Vibrations and Waves | Y-J Lee, Physics, MIT
-Electricity and Magnetism | Lecturer P. Dourmashkin, Physics, MIT
-Mechanics | D. Chakrabarty, Physics, MIT
-Structure and Interpretation of Computer Programs | H. Abelson, Electrical Engineering and Computer Science, MIT
+Structure and Interpretation of Computer Programs; The Computing Technology Inside Your Smartphone | H. Abelson, MIT; D. Albonesi, Electrical and Computer Engineering, Cornell University 
+Introduction to Engineering and Design; The Basics of Transport Phenomena | K. Haberstroh, Brown University; R. Mudde, Delft University of Technology
+Mechanics; Electricity and Magnetism; Vibrations and Waves; Structure and Interpretation of Computer Programs | D. Chakrabarty; P. Dourmashkin; Y-J Lee, MIT
 
 ## [Udemy](https://www.udemy.com/ "Udemy")
 
@@ -122,4 +115,3 @@ Chemistry, AP Physics 2, Cosmology & Astronomy | Science
 K-8th Grades Math | Math
 
 [comment]: <> (College Admission, Careers, Personal Finance)
-[comment]: <> (Social Psychology)

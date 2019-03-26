@@ -5,14 +5,16 @@ layout: default
 
 # Portfolio
 
+## Projects
+
 Some of Oscar's current projects include:
-- developing [Robot Operating System](https://wiki.ros.org/) apps for [ARKS](https://arks.tech/) 
+- developing [Robot Operating System](https://wiki.ros.org/) apps for [ARKS](https://arks.tech/), and simulating in [Gazebo](http://gazebosim.org/ "Gazebo") 
 - building a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system "Geopgraphic information system") Django.py app for a logistics client 
 - bulding a website for a construction client
 - continually upgrading [TanVivo](https://tanvivo.com/)'s Flask.py app
 - building a [CRUD](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete "Create, read, update, and delete") app on the [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29 "Linux Apache MySQL PHP") stack, and deploying to the [GCP](https://cloud.google.com/ "Google Cloud Platform") 
 - maintaining all 19 websites+ for a public policy institute
-- continually learning [science](/blog/science), starting my first [blog post](/blog/iiot "A Quick Glance at the Industrial Internet of Things").
+- continually learning [science](/blog/science), specifically researching the capacity of deep learning neural networks.
 
 Recently, Oscar has:
 - built a Flask.py application for TanVivo, integrating Twilio's SMS and WhatsApp features into an existing Wordpress app, and deployed on [Digital Ocean](https://www.digitalocean.com/ "Digital Ocean: Cloud Computing, Simplicity at Scale")
@@ -22,5 +24,11 @@ Recently, Oscar has:
 - built a full-stack [Meteor.js](https://www.meteor.com/ "Meteor")+[React.js](https://reactjs.org/ "React: a JavaScript library for building user interfaces") app for ARKS, and later replaced it with a [Ruby on Rails](https://rubyonrails.org/) microservice he built 
 - learned a lot about philosophy, mathematics, and computer science. 
 
+## Consulting
+Some smaller projects include:
+- writing a [Golang](http://golang.com "The Go Programming Language") program to generate PDF archives of every page of a website given a sitemap, and using it to archive a 127-page site.
+- figuring out there were actually no problems with email host setup, and diagnosing client's true problem was a browser incompatibility in major social networking site 
+- pushing code to git
+
 For more [about](/index#about) him, take a look at his [resume](/assets/docs/resume.pdf), or [email](mailto:98Hernandez.Oscar@gmail.com "98Hernandez.Oscar@gmail.com") for a free consultation.
-In addition to hardware projects, he'd like to work with mobile apps, IoT, AI, and AR.
+In addition to hardware projects, he'd like to work with mobile apps, AI, and embedded systems and IoT.

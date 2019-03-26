@@ -18,4 +18,4 @@ For previous projects, see [Portfolio](/portfolio "Portfolio").
 ## Now
 
 Oscar spends most of his time dealing with robotics software and web apps.
-He also dedicates time to learn [Applied Category Theory](https://johncarlosbaez.wordpress.com/2018/12/14/applied-category-theory-seminar/ "Applied Category Theory Seminar"), and research AI. 
+He's also learning [Applied Category Theory](https://johncarlosbaez.wordpress.com/2018/12/14/applied-category-theory-seminar/ "Applied Category Theory Seminar"), and researching the AI of deep neural network learning. 
