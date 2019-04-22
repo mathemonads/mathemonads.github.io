@@ -17,5 +17,5 @@ For previous projects, see [Portfolio](/portfolio "Portfolio").
 
 ## Now
 
-Oscar spends most of his time dealing with robotics software and web apps.
-He's also learning [Applied Category Theory](https://johncarlosbaez.wordpress.com/2018/12/14/applied-category-theory-seminar/ "Applied Category Theory Seminar"), and researching the AI of deep neural network learning. 
+Oscar spends most of his time writing with robotics software and web apps.
+He's also learning about [Applied Category Theory](https://johncarlosbaez.wordpress.com/2018/12/14/applied-category-theory-seminar/ "Applied Category Theory Seminar"), mechanical engineering, digital circuits, and deep learning neural networks. 
