@@ -5,17 +5,16 @@ layout: default
 
 # About
 
-Oscar solves hard problems by building automated hardware/software systems and integrating with any technology required.
+Oscar identifies and solves hard problems by building intelligent autonomous systems to integrate with any existing technology.
 He is passionate about working with nonprofits, academic researchers, and especially startups.
 
 ## Bio
-As an undergraduate, he studied liberal arts and graduated from Bard College at Simon's Rock with a _Bachelor of Arts_ in mathematics and computer science in the spring of 2017.
-Since then, he's gained valuable experience freelancing his services as a full-stack software engineer and system administrator.
-He continues to [learn](/portfolio/courses "learn") [science](/blog/science.html "formal, natural, and applied sciences"), and is now especially interested in embarking on AI projects with mechanical and electrical components.
+In the spring of 2017, Oscar graduated from Bard College at Simon's Rock with a _Bachelor of Arts_ in liberal arts with dual concentrations in mathematics and computer science, where he held several student leadership positions, conducted research in discrete mathematics, theoretical computer science, economic dynamics, and biomimetic electronics, and generally had a good time learning about philosophy, logic, and functional programming.
+
+Since then, he's cemented his experience in teaching, information technology, electrical and software engineering, and has had good times learning about philosophy and category theory.
 
 For previous projects, see [Portfolio](/portfolio "Portfolio").
 
 ## Now
 
-Oscar spends most of his time writing with robotics software and web apps.
-He's also learning about [Applied Category Theory](https://johncarlosbaez.wordpress.com/2018/12/14/applied-category-theory-seminar/ "Applied Category Theory Seminar"), mechanical engineering, digital circuits, and deep learning neural networks. 
+Oscar spends most of his time writing web apps, designing a robot, and [learning](/portfolio/courses "learn") [science](/blog/science.html "formal, natural, and applied sciences"), especially [Applied Category Theory](https://johncarlosbaez.wordpress.com/2018/12/14/applied-category-theory-seminar/ "Applied Category Theory Seminar") and neural networks. 
