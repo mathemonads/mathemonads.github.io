@@ -8,6 +8,7 @@ layout: default
 Title | Institution
 --- | ---
 Computer Vision | Udacity
+Foundations of Robot Motion | Coursera
 
 ## Favorites
 
@@ -46,7 +47,7 @@ Title | Instructor, Institution
 Paradox and Infinity | A. Rayo, Philosophy, MIT
 Structure and Interpretation of Computer Programs; The Computing Technology Inside Your Smartphone | H. Abelson, MIT; D. Albonesi, Electrical and Computer Engineering, Cornell University 
 Introduction to Engineering and Design; The Basics of Transport Phenomena | K. Haberstroh, Brown University; R. Mudde, Delft University of Technology
-Mechanics; Electricity and Magnetism; Vibrations and Waves; Structure and Interpretation of Computer Programs | D. Chakrabarty; P. Dourmashkin; Y-J Lee, MIT
+Mechanics; Electricity and Magnetism; Vibrations and Waves; | D. Chakrabarty; P. Dourmashkin; Y-J Lee, MIT
 
 ## [Udemy](https://www.udemy.com/ "Udemy")
 
