@@ -6,7 +6,7 @@ layout: default
 # Portfolio
 Oscar is a computer engineer with experience in full-stack web dev, IT/sysadmin, embedded systems, robotics, and artificial intelligence.
 
-Below is some of Oscar's recent activity listed in roughly chronological by delivery date.
+Below is some of Oscar's recent activity listed in roughly reverse chronological order by delivery date.
 
 ## Projects
 
@@ -28,8 +28,8 @@ Recently, Oscar has:
 - built a Flask.py application for TanVivo, integrating Twilio's SMS and WhatsApp features into an existing Wordpress app, and deployed on [Digital Ocean](https://www.digitalocean.com/ "Digital Ocean: Cloud Computing, Simplicity at Scale")
 - built a website for the [Inland Empire Hispanic Leadership Council](http://iehlc.org "Inland Empire Hispanic Leadership Council") using the [Hugo](https://gohugo.io/ "Hugo") static site generator, and hosted with the [Netlify CMS](https://www.netlifycms.org/ "Netlify CMS") (content management system). 
 - built a website for [Nex Move Games](http://www.nexmovegames.com "Nex Move Games") using the [Jekyll](https://jekyllrb.com/ "Jekyll") static site generator, and hosted it with [AWS](https://aws.amazon.com/)'s [Route 53](https://aws.amazon.com/route53/) and [S3](https://aws.amazon.com/s3/)
-- built an [Express.js](https://expressjs.com/ "Express web framework for Node.js") web application for an e-commerce client which syncs inventory data across e-commerce platforms in real time, and deployed it with [NGINX](https://nginx.org/ "nginx") on Digital Ocean, improving sell-through rate by over 60%.
-- designed [Arduino](# "Arduino") code, deployed custom [Ruby](# "Ruby")[on Rails](https://rubyonrails.org/ "Ruby on Rails") Serial communication microservice on a [Raspberry Pi](# "Raspberry Pi"), and built a full-stack [Meteor.js](https://www.meteor.com/ "Meteor")+[React.js](https://reactjs.org/ "React: a JavaScript library for building user interfaces") web app GUI for ARKS
+- built an [Express.js](https://expressjs.com/ "Express web framework for Node.js") web application for an e-commerce client which syncs inventory data across e-commerce platforms in real time, and deployed it with [NGINX](https://nginx.org/ "nginx") on Digital Ocean, improving sell-through rate by over 160%.
+- designed [Arduino](# "Arduino") code, deployed custom [Ruby](# "Ruby") [on Rails](https://rubyonrails.org/ "Ruby on Rails") Serial communication microservice on a [Raspberry Pi](# "Raspberry Pi"), and built a full-stack [Meteor.js](https://www.meteor.com/ "Meteor")+[React.js](https://reactjs.org/ "React: a JavaScript library for building user interfaces") web app GUI for ARKS
 - learned a lot about philosophy, mathematics, and computer science. 
 
 ## Consulting
