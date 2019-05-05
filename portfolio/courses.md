@@ -34,7 +34,7 @@ Philosophy, Science, and Religion: Science and Philosophy | A. Carter, The Unive
 Intro to the Design of Everyday Things; Product Design, Google | D. Norman; C. Saden
 Networking for Web Developers | K. Krueger
 Introduction to Operating Systems, Georgia Tech | A. Gavrilovska
-Programming Languages; Compilers, Georgia Tech | W. Eeimer; C. Gamboa
+Programming Languages; Compilers, Georgia Tech | W. Weimer; C. Gamboa
 Introduction to Relational Databases; Database Systems Concepts & Design, Georgia Tech | K. Krueger; L. Mark
 C++ For Programmers; Object-Oriented JavaScript, Hack Reactor; JavaScript Design Patterns; Front End Frameworks; Google Maps APIs, Google | C. Gamboa; M. Wales; B. Jaffe; R. Kalehoff; E. Keller
 Linux Command Line Basics; Web Tooling & Automation, Google | P. Mallory; P. Bakaus
