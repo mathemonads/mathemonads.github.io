@@ -39,4 +39,4 @@ Some smaller projects include:
 - pushing code to git.
 
 In addition to hardware projects, he'd like to work with mobile apps, machine learning, embedded systems and IoT.
-For more [about](/index#about) him, take a look at his [resume](/assets/docs/resume.pdf), or [email](mailto:98Hernandez.Oscar@gmail.com "98Hernandez.Oscar@gmail.com") for a free consultation.
+For more [about](/index#about) him, take a look at his [resume](/assets/docs/resume.pdf), or [email](mailto:{{site.email}} "{{site.email}}") for a free consultation.
