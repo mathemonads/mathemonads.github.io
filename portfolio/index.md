@@ -21,7 +21,7 @@ Some of Oscar's current projects include:
 - continually upgrading [TanVivo](https://tanvivo.com/)'s Flask.py app
 - building a [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29 "Linux Apache MySQL PHP") [CRUD](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete "Create, read, update, and delete") and deployed to the [GCP](https://cloud.google.com/ "Google Cloud Platform") 
 - maintaining all 19 websites+ for a public policy institute
-- continually learning [science](/blog/science), specifically researching the capacity of deep learning neural networks.
+- continually learning [science](/blog/science), specifically researching deep neural network machine learning.
 
 ### Recent
 Recently, Oscar has:
@@ -30,6 +30,7 @@ Recently, Oscar has:
 - built a website for [Nex Move Games](http://www.nexmovegames.com "Nex Move Games") using the [Jekyll](https://jekyllrb.com/ "Jekyll") static site generator, and hosted it with [AWS](https://aws.amazon.com/)'s [Route 53](https://aws.amazon.com/route53/) and [S3](https://aws.amazon.com/s3/)
 - built an [Express.js](https://expressjs.com/ "Express web framework for Node.js") web application for an e-commerce client which syncs inventory data across e-commerce platforms in real time, and deployed it with [NGINX](https://nginx.org/ "nginx") on Digital Ocean, improving sell-through rate by over 160%.
 - designed [Arduino](# "Arduino") code, deployed custom [Ruby](# "Ruby") [on Rails](https://rubyonrails.org/ "Ruby on Rails") Serial communication microservice on a [Raspberry Pi](# "Raspberry Pi"), and built a full-stack [Meteor.js](https://www.meteor.com/ "Meteor")+[React.js](https://reactjs.org/ "React: a JavaScript library for building user interfaces") web app GUI for ARKS
+- taught computer science, history & English, math & science
 - learned a lot about philosophy, mathematics, and computer science. 
 
 ## Consulting

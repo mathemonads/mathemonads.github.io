@@ -17,4 +17,4 @@ For previous projects, see [Portfolio](/portfolio "Portfolio").
 
 ## Now
 
-Oscar spends most of his time writing web apps, designing a robot, and [learning](/portfolio/courses "learn") [science](/blog/science.html "formal, natural, and applied sciences"), especially [Applied Category Theory](https://johncarlosbaez.wordpress.com/2018/12/14/applied-category-theory-seminar/ "Applied Category Theory Seminar") and deep learning neural networks. 
+Oscar spends most of his time writing web apps, designing a robot, and [learning](/portfolio/courses "learn") [science](/blog/science.html "formal, natural, and applied sciences"), especially [Applied Category Theory](https://johncarlosbaez.wordpress.com/2018/12/14/applied-category-theory-seminar/ "Applied Category Theory Seminar") and deep neural network machine learning. 
