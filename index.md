@@ -13,8 +13,4 @@ In the spring of 2017, Oscar graduated from Bard College at Simon's Rock with a 
 
 Since then, he's cemented his experience in teaching, information technology, electrical and software engineering.
 
-For previous projects, see [Portfolio](/portfolio "Portfolio").
-
-## Now
-
-Oscar spends most of his time writing web apps, designing a robot, and [learning](/portfolio/courses "learn") [science](/blog/science.html "formal, natural, and applied sciences"), especially [Applied Category Theory](https://johncarlosbaez.wordpress.com/2018/12/14/applied-category-theory-seminar/ "Applied Category Theory Seminar") and deep neural network machine learning. 
+Take a look at his [Portfolio](/portfolio "Portfolio"), or what he's up to [now](/blog/now "Now").
