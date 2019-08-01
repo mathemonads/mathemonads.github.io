@@ -14,17 +14,14 @@ Below is some of Oscar's recent activity listed in roughly reverse chronological
 
 Some of Oscar's current projects include:
 - developing [Robot Operating System](https://wiki.ros.org/) apps for [ARKS](https://arks.tech/), and simulating in [Gazebo](http://gazebosim.org/ "Gazebo") 
-- designing a website for an emergency services client
-- building a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system "Geopgraphic information system") Django.py app for a logistics client 
-- bulding a website for a construction client
-- continually upgrading [TanVivo](https://tanvivo.com/)'s Flask.py app
-- built a [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29 "Linux Apache MySQL PHP") & [Knockout.js](https://knockoutjs.com/) [CRUD](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete "Create, read, update, and delete") deployed to the [GCP](https://cloud.google.com/ "Google Cloud Platform"), and redeveloping it in [Laravel.php](https://laravel.com/).
-- maintain websites for various clients 
+- building a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system "Geographic information system") Django.py app for a logistics client 
+- building a [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29 "Linux Apache MySQL PHP") & [Knockout.js](https://knockoutjs.com/) [CRUD](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete "Create, read, update, and delete"), and deployed to the [GCP](https://cloud.google.com/ "Google Cloud Platform")
+- designing, building, and maintaing websites for various clients 
 - continually learning [science](/blog/science), specifically researching deep neural network machine learning.
 
 ### Recent
 Recently, Oscar has:
-- built a Flask.py application for TanVivo, integrating Twilio's SMS and WhatsApp features into an existing Wordpress app, and deployed on [Digital Ocean](https://www.digitalocean.com/ "Digital Ocean: Cloud Computing, Simplicity at Scale")
+- built a Flask.py application for [TanVivo](https://tanvivo.com/), integrating Twilio's SMS and WhatsApp features into an existing Wordpress app, and deployed on [Digital Ocean](https://www.digitalocean.com/ "Digital Ocean: Cloud Computing, Simplicity at Scale")
 - maintained all 20+ websites for [The American Assembly](https://americanassembly.org/)'s projects, and migrated access to other organizations
 - built a website for the [Inland Empire Hispanic Leadership Council](http://iehlc.org "Inland Empire Hispanic Leadership Council") using the [Hugo](https://gohugo.io/ "Hugo") static site generator, and hosted with the [Netlify CMS](https://www.netlifycms.org/ "Netlify CMS") (content management system). 
 - built a website for [Nex Move Games](http://www.nexmovegames.com "Nex Move Games") using the [Jekyll](https://jekyllrb.com/ "Jekyll") static site generator, and hosted it with [AWS](https://aws.amazon.com/)'s [Route 53](https://aws.amazon.com/route53/) and [S3](https://aws.amazon.com/s3/)
