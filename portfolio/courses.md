@@ -14,7 +14,8 @@ Foundations of Robot Motion | Coursera
 
 Title | Instructor, Institution 
 --- | ---
-Category Theory Seminar | J. Baez, [UC Riverside Department of Mathematics](http://math.ucr.edu/home/baez/)
+NSF I-Corps Innovat'R Workshops | J. Gilbert, [UC Riverside OTP EPIC](https://www.ucreduotp.net/nsf-icorps-sfi)
+Category Theory Seminar | J. Baez, [UCR Department of Mathematics](http://math.ucr.edu/home/baez/)
 Introduction To SWI-Prolog | A. Ogborn, [SWI-Prolog](https://edu.swi-prolog.org/ "SWI-Prolog Education")
 
 ## [Coursera](https://www.coursera.org/ "Coursera")
@@ -32,7 +33,7 @@ Philosophy, Science, and Religion: Science and Philosophy | A. Carter, The Unive
 ## [Udacity](https://www.udacity.com/ "Udacity")
 
 Intro to the Design of Everyday Things; Product Design, Google | D. Norman; C. Saden
-Networking for Web Developers | K. Krueger
+Networking for Web Developers; Intro to DevOps, Nutanix | K. Krueger, K. Krueger
 Introduction to Operating Systems, Georgia Tech | A. Gavrilovska
 Programming Languages; Compilers, Georgia Tech | W. Weimer; C. Gamboa
 Introduction to Relational Databases; Database Systems Concepts & Design, Georgia Tech | K. Krueger; L. Mark
