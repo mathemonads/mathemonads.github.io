@@ -5,12 +5,12 @@ layout: default
 
 # About
 
-Oscar identifies and solves hard problems by building modular intelligent autonomous systems.
-He is passionate about working with nonprofits, academic researchers, and especially startups.
+Oscar researches problems in science and business, and develops technological solutions.
+He's currently a startup co-founding computer engineer building an intelligent autonomous robot for warehouses.
 
 ## Bio
-In the spring of 2017, Oscar graduated from Bard College at Simon's Rock with a _Bachelor of Arts_ in liberal arts with dual concentrations in mathematics and computer science, where he held several student leadership positions, and conducted research in discrete and algorithmic mathematics, economic dynamics, biomimetic electronics, and theoretical computer science.
+In the spring of 2017, Oscar graduated from [Bard College at Simon's Rock](https://simons-rock.edu "Simon's Rock") with a _Bachelor of Arts_ in liberal arts with dual concentrations in mathematics and computer science, where he held several student leadership positions and published original research. 
 
-Since then, he's cemented his experience in teaching, information technology, electrical and software engineering.
-
-Take a look at his [Portfolio](/portfolio "Portfolio"), or what he's up to [now](/blog/now "Now").
+Since then, he's cemented his experience in teaching, information technology, electrical/software engineering, and machine learning.
+ 
+Take a look at his [Portfolio](/portfolio "Portfolio"), or see what he's up to [now](/blog/now "Now").
