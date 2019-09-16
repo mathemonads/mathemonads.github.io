@@ -22,4 +22,7 @@ Read about his interests in [science](/blog/science "science"), which are mostly
 ## Prospective
 
 He also has some other things he'd like to learn about, and is trying to find "study buddies" for.
-This includes relativity, quantum physics, physical chemistry, organic chemistry, neuroscience, philosophy of mind, sociology, public economics, and financial technology.
+This includes:
+- Mathematics: Applied Higher Category Theory, Type Theory
+- Physics: Relativity, *Motion*, Electricity & Magnetism, Quantum Chemistry
+- Social Psychology, Ancient Greek Political Philosophy
