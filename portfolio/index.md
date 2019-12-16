@@ -18,7 +18,7 @@ Some of Oscar's current projects include:
 - building a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system "Geographic information system") Django.py app for a logistics client 
 - building a [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29 "Linux Apache MySQL PHP") & [Knockout.js](https://knockoutjs.com/) [CRUD](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete "Create, read, update, and delete"), and deployed to the [GCP](https://cloud.google.com/ "Google Cloud Platform")
 - designing, building, and maintaing websites for various clients 
-- continually learning [science](/blog/science), specifically researching deep neural network machine learning.
+- continually learning [science](/blog/science), specifically researching interpretable machine learning theory.
 
 ### Recent
 Recently, Oscar has:

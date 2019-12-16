@@ -7,15 +7,15 @@ layout: default
 
 Title | Institution
 --- | ---
-Computer Vision | Udacity
-Foundations of Robot Motion | Coursera
+Intel Edge AI Scholarship Foundation Course | Udacity
+Bertelsmann Technology Scholarship Foundation Challenge Course - AI Track | Udacity
 
 ## Favorites
 
 Title | Instructor, Institution 
 --- | ---
 NSF I-Corps Innovat'R Workshops | J. Gilbert, [UC Riverside OTP EPIC](https://www.ucreduotp.net/nsf-icorps-sfi)
-Category Theory Seminar | J. Baez, [UCR Department of Mathematics](http://math.ucr.edu/home/baez/)
+Category Theory Seminar, Combinatorial Theory, Network Theory Seminar | J. Baez, [UCR Department of Mathematics](http://math.ucr.edu/home/baez/)
 Introduction To SWI-Prolog | A. Ogborn, [SWI-Prolog](https://edu.swi-prolog.org/ "SWI-Prolog Education")
 
 ## [Coursera](https://www.coursera.org/ "Coursera")
@@ -24,6 +24,7 @@ Title | Instructor, Department, Institution
 --- | ---
 Bayesian Statistics | H. Lee, Applied Mathematics and Statistics, UC Santa Cruz
 Machine Learning | A. Ng, Coursera
+How Google Does Machine Learning | Google Cloud
 IT Support Professional Certificate | Google
 Coursera Mentor Community and Training Course | Coursera
 Game Theory | M. O. Jackson, Economics, Stanford University
