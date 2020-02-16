@@ -9,7 +9,7 @@ Currently, he is especially interested in [Applied Category Theory](https://john
 In addition, he's currently reading Wallace's _Infinite Jest_ and listening to the _Stuff You Should Know_ podcast recordings from 2008.
 
 ## Business
-He is a founding member and computer engineer at [ARKS](https://www.arks.tech/). In that capacity, he is designing a robot and participating in the Interphase Incubator. 
+He was a founding member and robotics engineer at [ARKS](https://www.arks.tech/), and still serves them as a technical advisor. 
 
 ## Consulting
 Outside of that, he spends most of his time writing web+mobile apps for clients.
