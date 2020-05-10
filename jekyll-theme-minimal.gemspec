@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Gem::Specification.new do |s|
   s.name          = 'jekyll-theme-minimal'
   s.version       = '0.1.1'
@@ -8,7 +10,8 @@ Gem::Specification.new do |s|
   s.summary       = 'Minimal is a Jekyll theme for GitHub Pages'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
-    f.match(%r{^((_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
+    r = %r{^((_layouts|_sass|assets)/|((\.(txt|md|markdown)|$)))}i
+    f.match(r)
   end
 
   s.platform = Gem::Platform::RUBY
