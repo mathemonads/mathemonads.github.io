@@ -17,7 +17,7 @@ Some of Oscar's current projects include:
 - developing a [Laravel.php](https://laravel.com/)+[Vue.js](https://vuejs.org/) application for a legal startup 
 - building a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system "Geographic information system") Django.py app for a logistics client 
 - designing, building, and maintaing web apps for various clients 
-- continually learning [science](/blog/science), specifically researching interpretable machine learning theory.
+- continually learning [science](/blog/science.html), specifically researching interpretable machine learning theory.
 
 ### Recent
 Recently, Oscar has:
@@ -28,7 +28,7 @@ Recently, Oscar has:
 - built a website for the [Inland Empire Hispanic Leadership Council](http://iehlc.org "Inland Empire Hispanic Leadership Council") using the [Hugo](https://gohugo.io/ "Hugo") static site generator, and hosted with the [Netlify CMS](https://www.netlifycms.org/ "Netlify CMS") (content management system). 
 - built a website for [Nex Move Games](http://www.nexmovegames.com "Nex Move Games") using the [Jekyll](https://jekyllrb.com/ "Jekyll") static site generator, and hosted it with [AWS](https://aws.amazon.com/)'s [Route 53](https://aws.amazon.com/route53/) and [S3](https://aws.amazon.com/s3/)
 - built an [Express.js](https://expressjs.com/ "Express web framework for Node.js") web application for an e-commerce client which syncs inventory data across e-commerce platforms in real time, and deployed it with [NGINX](https://nginx.org/ "nginx") on Digital Ocean, improving sell-through rate by over 160%.
-- designed [Arduino](# "Arduino") code, deployed custom [Ruby](# "Ruby") [on Rails](https://rubyonrails.org/ "Ruby on Rails") Serial communication microservice on a [Raspberry Pi](# "Raspberry Pi"), and built a full-stack [Meteor.js](https://www.meteor.com/ "Meteor")+[React.js](https://reactjs.org/ "React: a JavaScript library for building user interfaces") web app GUI for ARKS
+- designed [Arduino](https://www.arduino.cc/ "Arduino") code, deployed custom [Ruby](https://www.ruby-lang.org/en/ "Ruby") [on Rails](https://rubyonrails.org/ "Ruby on Rails") Serial communication microservice on a [Raspberry Pi](https://www.raspberrypi.org/ "Raspberry Pi"), and built a full-stack [Meteor.js](https://www.meteor.com/ "Meteor")+[React.js](https://reactjs.org/ "React: a JavaScript library for building user interfaces") web app GUI for ARKS
 - history & English, computer science, math & Earth science
 - learned a lot about philosophy, mathematics, computer science and researched discrete+algorithmic math, economic dynamics, biomimetic electronics, computational complexity, and natural language processing. 
 
@@ -39,4 +39,4 @@ Some smaller projects include:
 - pushing code to git, patching, and deploying applications on Digital Ocean.
 
 In addition to hardware projects, he'd like to work with mobile apps, machine learning, embedded systems and IoT.
-For more [about](/index#about) him, take a look at his [resume](/assets/docs/resume.pdf), or [email](mailto:{{site.email}} "{{site.email}}") for a free consultation.
+For more [about](/index.html#about) him, take a look at his [resume](/assets/docs/resume.pdf), or [email](mailto:{{site.email}} "{{site.email}}") for a free consultation.

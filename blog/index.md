@@ -17,7 +17,7 @@ Oscar enjoys thinking (reading/consuming, writing/sharing) about philosophy, mus
 
 ### Natural Sciences, Technology, Mathematics, and Engineering
 
-Read about his interests in [science](/blog/science "science"), which are mostly foundational math and bleeding-edge scientific engineering.
+Read about his interests in [science](/blog/science.html "science"), which are mostly foundational math and bleeding-edge scientific engineering.
 
 ## Prospective
 

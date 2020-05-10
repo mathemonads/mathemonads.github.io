@@ -13,4 +13,4 @@ In the spring of 2017, Oscar graduated from [Bard College at Simon's Rock](https
 
 Since then, he's cemented his experience in teaching, information technology, robotics engineering, and machine learning.
  
-Take a look at his [Portfolio](/portfolio "Portfolio"), or see what he's up to [now](/blog/bio/now "Now").
+Take a look at his [Portfolio](/portfolio/index.html "Portfolio"), or see what he's up to [now](/blog/bio/now.html "Now").
