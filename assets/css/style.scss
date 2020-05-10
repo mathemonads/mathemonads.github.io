@@ -2,3 +2,10 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+#hero-image {
+    background: linear-gradient(to top, #fff, transparent, transparent, transparent),
+    url("{{site.logo | relative_url}}") no-repeat;
+    background-size: 100%;
+}
+

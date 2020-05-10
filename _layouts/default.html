@@ -22,14 +22,6 @@
 
             {% if site.logo %}
             <!--<img src="{{site.logo | relative_url}}" alt="Logo" />-->
-            <style>
-                #hero-image {
-                    background: linear-gradient(to top, #fff, transparent, transparent, transparent),
-                    url("{{site.logo | relative_url}}") no-repeat;
-                    background-size: 100%;
-                }
-
-            </style>
 
             <div id="hero-image" style="height:350px">
             </div>
@@ -73,7 +65,7 @@
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
             {% endif %}
             <!--<p><small>
-                    &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>--></small></p>
+		    &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
         </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
