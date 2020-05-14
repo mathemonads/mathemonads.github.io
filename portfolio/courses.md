@@ -7,16 +7,16 @@ layout: default
 
 Title | Institution
 --- | ---
-Intel Edge AI Scholarship Foundation Course | Udacity
-Bertelsmann Technology Scholarship Foundation Challenge Course - AI Track | Udacity
+Overview of Advanced Methods of Reinforcement Learning in Finance | Coursera
 
 ## Favorites
 
 Title | Instructor, Institution 
 --- | ---
 NSF I-Corps Innovat'R Workshops | J. Gilbert, [UC Riverside OTP EPIC](https://www.ucreduotp.net/nsf-icorps-sfi)
-Category Theory Seminar, Combinatorial Theory, Network Theory Seminar | J. Baez, [UCR Department of Mathematics](http://math.ucr.edu/home/baez/)
+Category Theory Seminar, Combinatorial Theory, Network Theory Seminars | J. Baez, [UCR Department of Mathematics](http://math.ucr.edu/home/baez/)
 Introduction To SWI-Prolog | A. Ogborn, [SWI-Prolog](https://edu.swi-prolog.org/ "SWI-Prolog Education")
+Data Science Career Path | [Codecademy](https://www.codecademy.com/learn/paths/data-science "Codecademy")
 
 ## [Coursera](https://www.coursera.org/ "Coursera")
 
@@ -24,6 +24,7 @@ Title | Instructor, Department, Institution
 --- | ---
 Bayesian Statistics | H. Lee, Applied Mathematics and Statistics, UC Santa Cruz
 Machine Learning | A. Ng, Coursera
+Data Engineering with GC Professional Certificate | Google Cloud 
 How Google Does Machine Learning | Google Cloud
 IT Support Professional Certificate | Google
 Coursera Mentor Community and Training Course | Coursera
@@ -33,6 +34,8 @@ Philosophy, Science, and Religion: Science and Philosophy | A. Carter, The Unive
 
 ## [Udacity](https://www.udacity.com/ "Udacity")
 
+Intel Edge AI Scholarship Foundation Course | M. Virgo
+Bertelsmann Technology Scholarship Foundation Challenge Course -- AI Track | L. Serrano 
 Intro to the Design of Everyday Things; Product Design, Google | D. Norman; C. Saden
 Networking for Web Developers; Intro to DevOps, Nutanix | K. Krueger, K. Krueger
 Introduction to Operating Systems, Georgia Tech | A. Gavrilovska

@@ -4,7 +4,6 @@ layout: default
 ---
 
 # Portfolio
-Oscar is a software engineer with experience in information technology, full-stack web development, robotics, and artificial intelligence.
 
 Below is some of Oscar's recent activity listed in roughly reverse chronological order by delivery date.
 
@@ -15,13 +14,13 @@ Below is some of Oscar's recent activity listed in roughly reverse chronological
 Some of Oscar's current projects include:
 - serving a local solo law firm as a patent systems eningeer
 - developing a [Laravel.php](https://laravel.com/)+[Vue.js](https://vuejs.org/) application for a legal startup 
-- building a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system "Geographic information system") Django.py app for a logistics client 
 - designing, building, and maintaing web apps for various clients 
-- continually learning [science](/blog/science.html), specifically researching interpretable machine learning theory.
+- continually learning and researching [science](/blog/science.html).
 
 ### Recent
 Recently, Oscar has:
 - built a Flask.py application for [TanVivo](https://tanvivo.com/), integrating Twilio's SMS and WhatsApp features into an existing Wordpress app, and deployed on [Digital Ocean](https://www.digitalocean.com/ "Digital Ocean: Cloud Computing, Simplicity at Scale")
+- built a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system "Geographic information system") [Django.py](https://www.djangoproject.com "Django") app for a logistics client 
 - maintained all 20+ websites for [The American Assembly](https://americanassembly.org/)'s projects, and migrated access to other organizations
 - buildt+deployed a [LAMP](https://en.wikipedia.org/wiki/LAMP_%28software_bundle%29 "Linux Apache MySQL PHP") & [Knockout.js](https://knockoutjs.com/) [CRUD](https://en.wikipedia.org/wiki/Create%2C_read%2C_update_and_delete "Create, read, update, and delete") app on the [GCP](https://cloud.google.com/ "Google Cloud Platform"), and later built+deployed a Laravel.php+[TypeScript.jsx](https://www.typescriptlang.org/ "TypeScript") app on Digital Ocean. 
 - developed [Robot Operating System](https://wiki.ros.org/) apps for [ARKS](https://arks.tech/) simulated in [Gazebo](http://gazebosim.org/ "Gazebo") that implement robot localization, mapping, and navigation 
@@ -38,5 +37,4 @@ Some smaller projects include:
 - diagnosing issues between client's email host setup and browser incompatibility in major social networking site
 - pushing code to git, patching, and deploying applications on Digital Ocean.
 
-In addition to hardware projects, he'd like to work with mobile apps, machine learning, embedded systems and IoT.
-For more [about](/index.html#about) him, take a look at his [resume](/assets/docs/resume.pdf), or [email](mailto:{{site.email}} "{{site.email}}") for a free consultation.
+For more [about](/index.html#about) him, take a look at his [resume](/assets/docs/resume.pdf), or ask him anything over [email](mailto:{{site.email}} "{{site.email}}").
