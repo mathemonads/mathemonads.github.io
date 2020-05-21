@@ -5,7 +5,7 @@ layout: default
 
 # About
 
-Oscar is currently a patent systems engineer, a freelancer, an independent researcher, and an incoming master's student of mathematics.
+Oscar is currently an independent freelancer and an incoming master's student of mathematics.
 
 He is seeking temporary contract work and summer internships in research, banking, and consulting.
 

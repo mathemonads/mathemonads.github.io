@@ -3,12 +3,6 @@ title: Courses
 layout: default
 ---
 
-## Now
-
-Title | Institution
---- | ---
-Overview of Advanced Methods of Reinforcement Learning in Finance | Coursera
-
 ## Favorites
 
 Title | Instructor, Institution 
