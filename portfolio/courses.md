@@ -38,6 +38,7 @@ Introduction to Relational Databases; Database Systems Concepts & Design, Georgi
 C++ For Programmers; Object-Oriented JavaScript, Hack Reactor; JavaScript Design Patterns; Front End Frameworks; Google Maps APIs, Google | C. Gamboa; M. Wales; B. Jaffe; R. Kalehoff; E. Keller
 Linux Command Line Basics; Web Tooling & Automation, Google | P. Mallory; P. Bakaus
 Introduction to Psychology, San Jose State University | S. Snycerski
+Introduction to Descriptive Statistics | R. Rogers
 
 ## [edX](https://www.edx.org/ "edX")
 
