@@ -30,6 +30,7 @@ Philosophy, Science, and Religion: Science and Philosophy | A. Carter, The Unive
 
 Intel Edge AI Scholarship Foundation Course | M. Virgo
 Bertelsmann Technology Scholarship Foundation Challenge Course -- AI Track | L. Serrano 
+Intro to Data Analysis and Programming Scholarship Challenge Course | C. Buckley
 Intro to the Design of Everyday Things; Product Design, Google | D. Norman; C. Saden
 Networking for Web Developers; Intro to DevOps, Nutanix | K. Krueger, K. Krueger
 Introduction to Operating Systems, Georgia Tech | A. Gavrilovska

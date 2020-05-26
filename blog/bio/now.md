@@ -7,6 +7,14 @@ layout: default
  
 Oscar dedicates time to [learning](/portfolio/courses.html "learn") [science](/blog/science.html "formal, natural, and applied sciences").
 
+This summer, he'd like to learn more physics and electrical engineering.
+
+He's currently taking MOOCs on:
+
+- AWS Machine Learning Foundations, on a Udacity scholarship challenge
+- Structure of Materials, auditing on edX
+- Algebra 2, Chemistry, Physics, Trigonometry, on Khan Academy.
+
 ## Media
 
 He's currently reading David Foster Wallace's _Infinite Jest_ and listening to the _Stuff You Should Know_ podcast recordings from 2008.
