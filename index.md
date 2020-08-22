@@ -7,7 +7,7 @@ layout: default
 
 Oscar is currently an independent freelancer and an incoming master's student of mathematics.
 
-He is seeking temporary contract work and summer internships in research, banking, and consulting.
+He is seeking summer internships in research, banking, consulting, and engineering.
 
 ## Bio
 In the spring of 2017, Oscar graduated from [Bard College at Simon's Rock](https://simons-rock.edu/news/students-win-prize-physics-research.php "Simon's Rock") with a _Bachelor of Arts_ concentrated in mathematics and computer science, where he held several student leadership positions and published original research. 

@@ -9,16 +9,9 @@ Below is some of Oscar's recent activity listed in roughly reverse chronological
 
 ## Projects
 
-### Current
-
-Some of Oscar's current projects include:
-- serving a local solo law firm as a patent systems eningeer
-- developing a [Laravel.php](https://laravel.com/)+[Vue.js](https://vuejs.org/) application for a legal startup 
-- designing, building, and maintaing web apps for various clients 
-- continually learning and researching [science](/blog/science.html).
-
 ### Recent
 Recently, Oscar has:
+- contributed to a [Laravel.php](https://laravel.com/)+[Vue.js](https://vuejs.org/) application for a legal startup 
 - built a Flask.py application for [TanVivo](https://tanvivo.com/), integrating Twilio's SMS and WhatsApp features into an existing Wordpress app, and deployed on [Digital Ocean](https://www.digitalocean.com/ "Digital Ocean: Cloud Computing, Simplicity at Scale")
 - built a [GIS](https://en.wikipedia.org/wiki/Geographic_information_system "Geographic information system") [Django.py](https://www.djangoproject.com "Django") app for a logistics client 
 - maintained all 20+ websites for [The American Assembly](https://americanassembly.org/)'s projects, and migrated access to other organizations
@@ -33,6 +26,7 @@ Recently, Oscar has:
 
 ## Consulting
 Some smaller projects include:
+- serving a local solo law firm as a patent systems eningeer
 - writing a [Golang](http://golang.com "The Go Programming Language") program to generate PDF archives of every page of a website given a sitemap, and using it to archive a 127-page site.
 - diagnosing issues between client's email host setup and browser incompatibility in major social networking site
 - pushing code to git, patching, and deploying applications on Digital Ocean.

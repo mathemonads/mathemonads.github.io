@@ -7,13 +7,7 @@ layout: default
  
 Oscar dedicates time to [learning](/portfolio/courses.html "learn") [science](/blog/science.html "formal, natural, and applied sciences").
 
-This summer, he'd like to learn more physics and electrical engineering.
-
-He's currently taking MOOCs on:
-
-- AWS Machine Learning Foundations, on a Udacity scholarship challenge
-- Structure of Materials, auditing on edX
-- Algebra 2, Chemistry, Physics, Trigonometry, on Khan Academy.
+He's currently TAing calculus, and taking algebra, optimization, and partial differential equations.
 
 ## Media
 

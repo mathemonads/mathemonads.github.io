@@ -3,14 +3,24 @@ title: Courses
 layout: default
 ---
 
-## Favorites
+Below are most of the courses I have taken since high school.
 
+<details>
+  <summary>Favorites</summary>
+
+## Favorites
 Title | Instructor, Institution 
 --- | ---
 NSF I-Corps Innovat'R Workshops | J. Gilbert, [UC Riverside OTP EPIC](https://www.ucreduotp.net/nsf-icorps-sfi)
 Category Theory Seminar, Combinatorial Theory, Network Theory Seminars | J. Baez, [UCR Department of Mathematics](http://math.ucr.edu/home/baez/)
 Introduction To SWI-Prolog | A. Ogborn, [SWI-Prolog](https://edu.swi-prolog.org/ "SWI-Prolog Education")
 Data Science Career Path | [Codecademy](https://www.codecademy.com/learn/paths/data-science "Codecademy")
+
+</details>
+
+<details>
+
+  <summary>MOOCs</summary>
 
 ## [Coursera](https://www.coursera.org/ "Coursera")
 
@@ -48,7 +58,6 @@ Title | Instructor, Institution
 Paradox and Infinity | A. Rayo, Philosophy, MIT
 Structure and Interpretation of Computer Programs; The Computing Technology Inside Your Smartphone | H. Abelson, MIT; D. Albonesi, Electrical and Computer Engineering, Cornell University 
 Introduction to Engineering and Design; The Basics of Transport Phenomena | K. Haberstroh, Brown University; R. Mudde, Delft University of Technology
-Mechanics; Electricity and Magnetism; Vibrations and Waves; | D. Chakrabarty; P. Dourmashkin; Y-J Lee, MIT
 
 ## [Udemy](https://www.udemy.com/ "Udemy")
 
@@ -56,6 +65,29 @@ Title | Instructor
 --- | ---
 Blockchain Theory 101 | M. Swan
 Introduction to Financial Accounting | T. Vipond
+
+## [Khan Academy](https://www.khanacademy.org/ "Khan Academy")
+
+Titles | Subject
+--- | ---
+Microeconomics, Macroeconomics, Finance & Capital Markets | Economics & Finance
+Grammar, World History, US History, US Government and Politics | Arts & Humanities
+Computer Programming | Computing
+Chemistry, AP Physics 2, Cosmology & Astronomy | Science
+K-8th Grades Math | Math
+
+</details>
+
+<details>
+
+  <summary>Traditional</summary>
+
+## [Butte College](https://www.butte.edu/ "Butte College")
+
+(Number, Credits) Title | Instructor | Semester
+--- | --- | ---
+(PHYS-21, 4) College Physics I | M. Panunto | Summer 2020
+(PHYS-22, 4) College Physics II | P. McDougall | Summer 2020
 
 
 ## [Bard College at Simon's Rock](https://simons-rock.edu/ "Bard College at Simon's Rock: the Early College")
@@ -105,15 +137,16 @@ Introduction to Financial Accounting | T. Vipond
 (LATN100, 4) Accelerated Beginning Latin I | C. Callanan | Fall 2013
 (FS100+FL, 4) Seminar I - Origins: Self and Cosmos + Lab | W. Brown + B. Mikesell | Fall 2013
 (WKS100, 0) Writing and Thinking Workshop | Y. Zhao | Summer 2013
+</details>
+<br>
+<hr>
 
-## [Khan Academy](https://www.khanacademy.org/ "Khan Academy")
+To younger students,  I recommend the following resources from [Varsity Tutors](https://www.varsitytutors.com/ "Varsity Tutors").
 
-Titles | Subject
---- | ---
-Microeconomics, Macroeconomics, Finance & Capital Markets | Economics & Finance
-Grammar, World History, US History, US Government and Politics | Arts & Humanities
-Computer Programming | Computing
-Chemistry, AP Physics 2, Cosmology & Astronomy | Science
-K-8th Grades Math | Math
+- [Virtual School Day](https://www.varsitytutors.com/virtual-school-day): Nearly 200 free, live K-12 classes available all day long intended to help parents fill their children’s day with enriched learning. Some popular classes are "Intro to Spanish for Kids", “Coolest Women in History”, “Java Programming Basics”, and “The Story of Your Favorite Fairy Tales”. We have received exceptional ratings from thousands of parents and students.
 
-[comment]: <> (College Admission, Careers, Personal Finance)
+- [Virtual Summer Camps](https://www.varsitytutors.com/virtual-summer-camps): Free half-day summer camps are a week long, with enrichment-based classes in subjects like foreign languages, chess, theater, coding, Minecraft, how to be a detective, photography and more. These live, interactive camps will be taught by expert instructors vetted through Varsity Tutors' platform. We already have 300+ camps scheduled for the summer and 2,000 families per day signing up.
+
+- [Adaptive Diagnostic Assessments](https://www.varsitytutors.com/learning-assessments): Measure a student’s proficiency and identify strengths and weaknesses in hundreds of subjects. Get an effective learning plan along with free tools to improve.
+
+- [Varsity Learning Tools](https://www.varsitytutors.com/practice-tests): More than 250,000 free practice problems in over 200 subjects. Also available as mobile applications.
