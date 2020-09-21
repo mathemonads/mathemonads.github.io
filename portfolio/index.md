@@ -26,7 +26,7 @@ Recently, Oscar has:
 
 ## Consulting
 Some smaller projects include:
-- serving a local solo law firm as a patent systems eningeer
+- serving a local solo law firm as a patent systems engineer
 - writing a [Golang](http://golang.com "The Go Programming Language") program to generate PDF archives of every page of a website given a sitemap, and using it to archive a 127-page site.
 - diagnosing issues between client's email host setup and browser incompatibility in major social networking site
 - pushing code to git, patching, and deploying applications on Digital Ocean.
