@@ -5,11 +5,11 @@ author: Oscar Hernandez
 
 ---
 
-To show your support for startup ideation at HackSR this weekend, please submit the following form: https://docs.google.com/forms/d/e/1FAIpQLSco5R_NIu0Z-SrYtOm4ffD1dK2_OtOKV_5fUpX2CF0tEybsYg/viewform
+To show your support for startup ideation at HackSR this weekend, please submit the following form: [HackSR Alumni Award Pledge](https://docs.google.com/forms/d/e/1FAIpQLSco5R_NIu0Z-SrYtOm4ffD1dK2_OtOKV_5fUpX2CF0tEybsYg/viewform "HackSR Alumni Award Pledge")
 
 My alma mater Bard College at Simon's Rock is currently hosting a hackathon, organized by Annex Studio Fellows, this weekend: May 7 \& 8, 2021. 
 
-https://sites.google.com/simons-rock.edu/hacksr/
+[https://sites.google.com/simons-rock.edu/hacksr/](https://sites.google.com/simons-rock.edu/hacksr/ "HackSR")
 
 I'm rallying the alumni to show our support for startup ideation and similar social endeavors. If you'd like to be involved in any way, please reach me contact me at [ohernandez13@simons-rock.edu](mailto:ohernandez13@simons-rock.edu) (or any social media). In particular, we will award the top X ideas (pending number of submissions) with a fixed amount of money. We would like to award a total amount of $200-500+, and ask alumni to pledge an amount up to $100.  
 
@@ -32,7 +32,7 @@ I'm Oscar, and it's a pleasure to meet you. I'd like to take 5 minutes to do thr
 
 3. Today, I encourage you to make anything good enough, whether it's a slow-growing sustainable project or a startup design with explosive potential.  To show that we alumni support you taking intelligent action to make the world a better place, we will award the top project idea with a nominal cash prize with no strings attached.
 
-The jury will evaluate your project idea according to the merit of your hypothesis and the strength of your presentation, based on the areas explained by YC's Kevin Hale -- see https://www.youtube.com/watch?v=DOtCl5PU8F0 and https://www.youtube.com/watch?v=17XZGUX_9iM -- below.
+The jury will evaluate your project idea according to the merit of your hypothesis and the strength of your presentation, based on the areas explained by YC's Kevin Hale -- see [How to Evaluate Startup Ideas](https://www.youtube.com/watch?v=DOtCl5PU8F0) and [How to Pitch Your Startup](https://www.youtube.com/watch?v=17XZGUX_9iM) -- below.
 
 1. problem: popular, growing, urgent, expensive, mandatory, frequent
    1. what is the problem? who is the customer? how many of the customers that you interviewed agree that this problem is really hurting them?
