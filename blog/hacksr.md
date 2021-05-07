@@ -7,13 +7,15 @@ author: Oscar Hernandez
 
 To show your support for startup ideation at HackSR this weekend, please submit the following form: [HackSR Alumni Award Pledge](https://docs.google.com/forms/d/e/1FAIpQLSco5R_NIu0Z-SrYtOm4ffD1dK2_OtOKV_5fUpX2CF0tEybsYg/viewform "HackSR Alumni Award Pledge")
 
-My alma mater Bard College at Simon's Rock is currently hosting a hackathon, organized by Annex Studio Fellows, this weekend: May 7 -- 8, 2021. 
+My alma mater Bard College at Simon's Rock is hosting a hackathon this weekend: May 7 -- 8, 2021. 
 
 [https://sites.google.com/simons-rock.edu/hacksr/](https://sites.google.com/simons-rock.edu/hacksr/ "HackSR")
 
+This endeavor, emerging from the new Simon's Rock Annex for Transdisciplinary and Experimental Inquiry and Practice, is student-led, and connects many different spaces on campus.
+
 I'm rallying the alumni to show our support for startup ideation and similar social endeavors. If you'd like to be involved in any way, please contact me, e.g. at [ohernandez13@simons-rock.edu](mailto:ohernandez13@simons-rock.edu). In particular, we will award the top X ideas (pending number of submissions) with a fixed amount of money. We would like to award a total amount of $200-500+, and ask alumni to pledge an amount up to $100.  
 
-The alumni will donate an equal amount of money as follows. If less than 5 alumni pledge, then we will request $100 from each. If N>5 alumni pledge, then we will request $500/N from each (rounded up to the nearest cent). This effort is in collaboration with Professor Asma Abbas, Provost John Weinstein, and Institutional Advancement Director Cathryn Harding. I'd be happy to respond to any and all forms of questions or comments.
+The alumni will donate an equal amount of money as follows. If less than 5 alumni pledge, then we will request $100 from each. If N>5 alumni pledge, then we will request $500/N from each (rounded up to the nearest cent). I'd be happy to respond to any and all forms of questions or comments.
 
 I intend to give the following speech during the opening remarks at 6pm ET, and invite all forms of feedback.
 
@@ -52,7 +54,5 @@ We recommend that your team fill each of the roles.
 ---
 
 Sometime after the opening remarks, I will share the judgement criteria. Please let me know if you would like to provide any suggestions on this or any other matter.
-
-
 
 Lastly, please share this broadly to reach as many Simon's Rock Alumni as possible!
