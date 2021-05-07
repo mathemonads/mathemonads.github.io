@@ -20,6 +20,6 @@ For the first time ever, you can share exactly how you feel with anyone.
 When they accept your emsg, their BC will run your thoughts and feelings directly by replicating your neural architecture at a translated quantum level.
 They'll cry, they'll laugh, they'll wonder, they've live, as you do.
 
-Arists can share exactly what they feel.
+Artists can share exactly what they feel.
 Scientists and engineers can communicate the crystal-clear expression in their mind without filtering it through fuzzy language of image.
 People can emote, together. 
