@@ -7,7 +7,7 @@ author: Oscar Hernandez
 
 To show your support for startup ideation at HackSR this weekend, please submit the following form: [HackSR Alumni Award Pledge](https://docs.google.com/forms/d/e/1FAIpQLSco5R_NIu0Z-SrYtOm4ffD1dK2_OtOKV_5fUpX2CF0tEybsYg/viewform "HackSR Alumni Award Pledge")
 
-My alma mater Bard College at Simon's Rock is currently hosting a hackathon, organized by Annex Studio Fellows, this weekend: May 7 \& 8, 2021. 
+My alma mater Bard College at Simon's Rock is currently hosting a hackathon, organized by Annex Studio Fellows, this weekend: May 7 -- 8, 2021. 
 
 [https://sites.google.com/simons-rock.edu/hacksr/](https://sites.google.com/simons-rock.edu/hacksr/ "HackSR")
 
