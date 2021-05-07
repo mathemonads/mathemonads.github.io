@@ -17,13 +17,13 @@ I'm rallying the alumni to show our support for startup ideation and similar soc
 
 The alumni will donate an equal amount of money as follows. If less than 5 alumni pledge, then we will request $100 from each. If N>5 alumni pledge, then we will request $500/N from each (rounded up to the nearest cent). I'd be happy to respond to any and all forms of questions or comments.
 
-I intend to give the following speech during the opening remarks at 6pm ET, and invite all forms of feedback.
+During the opening remarks, I communicated the following message.
 
 ---
 
 Welcome everyone to [HackSR 2021](https://sites.google.com/simons-rock.edu/hacksr "HackSR")!
 
-I'd like to thank everyone that helped me meet you, especially Iman and Samarth.
+I'd like to thank everyone that helped bring us together, especially Iman and Samarth.
 
 I'm Oscar, and it's a pleasure to meet you. I'd like to take 5 minutes to do three things: (1) tell you how I broke into tech (2) convey a crucial lesson, and (3) challenge you to put it into practice.
 
@@ -56,3 +56,4 @@ We recommend that your team fill each of the roles.
 Sometime after the opening remarks, I will share the judgement criteria. Please let me know if you would like to provide any suggestions on this or any other matter.
 
 Lastly, please share this broadly to reach as many Simon's Rock Alumni as possible!
+
