@@ -7,17 +7,17 @@ author: Oscar Hernandez
 
 To show your support for startup ideation at HackSR this weekend, please submit the following form: [HackSR Alumni Award Pledge](https://docs.google.com/forms/d/e/1FAIpQLSco5R_NIu0Z-SrYtOm4ffD1dK2_OtOKV_5fUpX2CF0tEybsYg/viewform "HackSR Alumni Award Pledge")
 
-My alma mater Bard College at Simon's Rock is hosting a hackathon this weekend: May 7 -- 8, 2021. 
+Bard College at Simon's Rock, my alma mater, is hosting a hackathon organized by the new *Simon's Rock Annex for Transdisciplinary and Experiment Inquiry and Practice* this weekend, May 7--8.
 
 [https://sites.google.com/simons-rock.edu/hacksr/](https://sites.google.com/simons-rock.edu/hacksr/ "HackSR")
 
-This endeavor, emerging from the new Simon's Rock Annex for Transdisciplinary and Experimental Inquiry and Practice, is student-led, and connects many different spaces on campus.
+This endeavor is student-led and connects many different spaces on campus.
 
-I'm rallying the alumni to show our support for startup ideation and similar social endeavors. If you'd like to be involved in any way, please contact me, e.g. at [ohernandez13@simons-rock.edu](mailto:ohernandez13@simons-rock.edu). In particular, we will award the top X ideas (pending number of submissions) with a fixed amount of money. We would like to award a total amount of $200-500+, and ask alumni to pledge an amount up to $100.  
+I'm rallying the alumni to show support for startup ideation and similar social endeavors. If you'd like to be involved -- I promise it's not too late -- please contact me, e.g. at [ohernandez13@simons-rock.edu](mailto:ohernandez13@simons-rock.edu). In particular, we will award the top X ideas (pending number of submissions) with a fixed amount of money. We would like to award a total amount of $200-500+, and ask alumni to pledge an amount up to $100.  
 
 The alumni will donate an equal amount of money as follows. If less than 5 alumni pledge, then we will request $100 from each. If N>5 alumni pledge, then we will request $500/N from each (rounded up to the nearest cent). I'd be happy to respond to any and all forms of questions or comments.
 
-During the opening remarks, I communicated the following message.
+During the opening remarks, I communicated excerpts from the following message.
 
 ---
 
