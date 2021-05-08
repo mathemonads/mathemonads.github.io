@@ -13,9 +13,7 @@ Bard College at Simon's Rock, my alma mater, is hosting a hackathon organized by
 
 This endeavor is student-led and connects many different spaces on campus.
 
-I'm rallying the alumni to show support for startup ideation and similar social endeavors. If you'd like to be involved -- I promise it's not too late -- please contact me, e.g. at [ohernandez13@simons-rock.edu](mailto:ohernandez13@simons-rock.edu). In particular, we will award the top X ideas (pending number of submissions) with a fixed amount of money. We would like to award a total amount of $200-500+, and ask alumni to pledge an amount up to $100.  
-
-The alumni will donate an equal amount of money as follows. If less than 5 alumni pledge, then we will request $100 from each. If N>5 alumni pledge, then we will request $500/N from each (rounded up to the nearest cent). I'd be happy to respond to any and all forms of questions or comments.
+I'm rallying the alumni to show support for startup ideation and similar social endeavors. If you'd like to be involved -- I promise it's not too late -- please contact me at [ohernandez13@simons-rock.edu](mailto:ohernandez13@simons-rock.edu). In particular, we will award the top X ideas (pending number of submissions) with a fixed amount of money. We'd like N alumni to pledge up to $100; at the end of event, we'll collect $500/N (rounded up to the nearest cent) from each of you and donate it to the college so they can disburse to the winners.
 
 During the opening remarks, I communicated excerpts from the following message.
 
@@ -51,9 +49,7 @@ We recommend that your team fill each of the roles.
 - Design: design solution. assess feasibility. create low-fidelity mockups.
 - Tech: build increasingly sophisticated prototypes.
 
----
-
-Sometime after the opening remarks, I will share the judgement criteria. Please let me know if you would like to provide any suggestions on this or any other matter.
+Soon, I will send more details on the judgement criteria. Please let me know if you would like to provide any suggestions on this or any other matter.
 
 Lastly, please share this broadly to reach as many Simon's Rock Alumni as possible!
 
