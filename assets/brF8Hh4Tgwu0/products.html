@@ -1000,10 +1000,70 @@
     >
       <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-5ef28b0463a3b43abf3d0b94"><div class="row sqs-row">
         <div class="col sqs-col-12 span-12">
-          <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5ef28b04c300db030017a5c6"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;"><strong>Ask us about QD Fittings</strong></h1>
+          <div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5ef28b04c300db030017a5c6"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;"><strong>Ask us about Our Off the Shelf Fittings</strong></h1>
           </div>
-          <h2>Off the Shelf Fittings</h2>
+          <h2>Quick Disconnects (Ground Support Equipment)</h2>
           <form action="/action_page.php">
+            <label for="mot">Minimum Operating Temperature</label><br>
+            <input type="radio" id="-40" name="mot" value="-40">
+            <label for="-40">-40 F (233.2 Kelvin)</label><br>
+            <input type="radio" id="-330" name="mot" value="-330">
+            <label for="-330">-330 F (72.0 Kelvin)</label><br>
+            <input type="radio" id="-425" name="mot" value="-425">
+            <label for="-425">-425 F (19.3 Kelvin)</label><br>
+
+            <label>Commodities</label><br>
+            <label>Liquid</label><br>
+            <input type="checkbox" id="o2" name="o2" value="O2">
+            <label for="o2">O2</label><br>
+            <input type="checkbox" id="n2" name="n2" value="N2">
+            <label for="n2">N2</label><br>
+            <input type="checkbox" id="h2" name="h2" value="H2">
+            <label for="h2">H2</label><br>
+            <input type="checkbox" id="ch4" name="ch4" value="CH4">
+            <label for="ch4">CH4</label><br>
+            <input type="checkbox" id="tea-teb" name="tea-teb" value="TEA-TEB">
+            <label for="tea-teb">TEA-TEB</label><br>
+            <input type="checkbox" id="c2h4" name="c2h4" value="C2H4">
+            <label for="c2h4">C2H4 -- Hydrazine</label><br>
+            <input type="checkbox" id="mmh" name="mmh" value="MMH">
+            <label for="mmh">MMH</label><br>
+            <input type="checkbox" id="udmh" name="udmh" value="UDMH">
+            <label for="udmh">UDMH</label><br>
+            <input type="checkbox" id="a50" name="a50" value="A50">
+            <label for="a50">A50</label><br>
+            <input type="checkbox" id="water" name="water" value="Potable Water">
+            <label for="water">Potable Water</label><br>
+            <input type="checkbox" id="glycols" name="glycols" value="Glycols">
+            <label for="glycols">Glycols</label><br>
+
+            <label>Gases</label><br>
+            <input type="checkbox" id="he" name="he" value="Helium">
+            <label for="he">Helium</label><br>
+            <input type="checkbox" id="h" name="h" value="Hydrogen">
+            <label for="h">Hydrogen</label><br>
+            <input type="checkbox" id="o" name="o" value="Oxygen">
+            <label for="o">Oxygen</label><br>
+            <input type="checkbox" id="ch4" name="ch4" value="Methane">
+            <label for="ch4">Methane</label><br>
+            <input type="checkbox" id="n" name="n" value="Nitrogen">
+            <label for="n">Nitrogen</label><br>
+            <input type="checkbox" id="ar" name="ar" value="Argon">
+            <label for="ar">Argon</label><br>
+            <input type="checkbox" id="xe" name="xe" value="Xenon">
+            <label for="xe">Xenon</label><br>
+
+            <label for="seald">Seal on Disconnect</label><br>
+            <input type="radio" id="double" name="seald" value="double">
+            <label for="double">Double Checking</label><br>
+            <input type="radio" id="single" name="seald" value="single">
+            <label for="single">Single Checking</label><br>
+            <input type="radio">
+            <label>Slip (no check, open on both sides)</label><br>
+            <input type="radio">
+            <label>Fill/Drain</label>
+            <br>
+
             <label for="meop">Maximum Expected Operating Pressure</label><br>
             <input type="radio" id="6" name="meop" value="6">
             <label for="6">6.0k psig</label><br>
@@ -1028,100 +1088,8 @@
             <input type="submit" value="Request OTS fitting">
           </form> 
 
-          <h2>Custom Fittings Configuration</h2>
-          <form action="/action_page.php">
-            <label for="meop">Maximum Expected Operating Pressure</label><br>
-            <input list="meop" type="text" placeholder="X.Y"/>
-            <datalist id="meop">
-              <option value="6.0">Medium Pressure</option>
-              <option value="1.5">Low Pressure</option>
-            </datalist>
-            k psig
-            <br>
+          <h2>Fill/Drain Valves</h2>
 
-            <label for="line">Line Size</label><br>
-            <input list="mycars" type="text" placeholder="-XY"/>
-            <datalist id="mycars">
-              <option value="-02">-02</option>
-              <option value="-04">-04</option>
-              <option value="-08">-08</option>
-              <option value="-12">-12</option>
-              <option value="-16">-16</option>
-              <option value="-24">-24</option>
-              <option value="-32">-32</option>
-            </datalist>
-            <br>
-
-            <label for="sealn">Seal Number</label><br>
-            <input type="radio" id="dual" name="sealn" value="dual">
-            <label for="dual">Dual seals (single leak redundancy)</label><br>
-            <input type="radio" id="triple" name="sealn" value="triple">
-            <label for="triple">Triple seals (dobule leak redundancy)</label>
-            <br>
-
-            <label for="seald">Seal on Disconnect</label><br>
-            <input type="radio" id="double" name="seald" value="double">
-            <label for="double">Double Checking</label><br>
-            <input type="radio" id="single" name="seald" value="single">
-            <label for="single">Single Checking</label><br>
-            <input type="radio">
-            <label>Slip (no check, open on both sides)</label><br>
-            <input type="radio">
-            <label>Fill/Drain</label>
-            <br>
-
-            <label for="temperature">Temperature</label><br>
-            <input type="number" id="temperature" name="temperature" placeholder="XY" step="1">
-            <br>
-
-            <label>Leak Rate (Standard Cubic Centimeters per Minute)</label><br>
-            <input type="radio">
-            <label>1E-5 SCCM</label><br>
-            <input type="radio">
-            <label>1E-6 SCCM</label><br>
-
-            <label for="flight">Fluid Connection (flight side)</label><br>
-            <input list="flight" type="text" placeholder="AS0000"/>
-            <datalist id="flight">
-              <option value="Welded"></option>
-              <option value="AS1098"></option>
-              <option value="AS5202"></option>
-            </datalist>
-            <br>
-
-            <label for="ground">Fluid Connection (ground side)</label><br>
-            <input list="ground" type="text" placeholder="AS0000"/>
-            <datalist id="ground">
-              <option value="Welded"></option>
-              <option value="AS1098"></option>
-              <option value="AS5202"></option>
-            </datalist>
-            <br>
-
-            <label for="mounting">Mounting Method</label><br>
-            <input list="mounting" type="text" placeholder="X Flange"/>
-            <datalist id="mounting">
-              <option value="Jam Nut with Wave Spring"></option>
-              <option value="Jam Nut without Wave Spring"></option>
-              <option value="Triangle Flange"></option>
-              <option value="ANSI Flange"></option>
-            </datalist>
-            <br>
-
-            <label for="lead">Lead Time</label><br>
-            <input type="radio" id="cryo" name="lead" value="cryo">
-            <label for="cryo">Cryo (7 weeks production)</label><br>
-            <input type="radio" id="ncryo" name="lead" value="ncryo">
-            <label for="ncryo">Non-Cryo (5 weeks production)</label>
-            <br>
-
-            <label for="email">Email</label><br>
-            <input type="email" id="email" name="email" placeholder="X@Y.Z">
-            <br>
-            
-            <br>
-            <input type="submit" value="Request Fitting Consultation">
-          </form> 
         </div>
       </div>
     </div>
