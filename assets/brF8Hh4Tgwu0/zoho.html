@@ -1,16 +1,4 @@
 <style>
-    .zf-flLeft {
-        float: left;
-    }
-
-    .zf-flRight {
-        float: right;
-    }
-
-    .zf-clearBoth {
-        clear: both;
-    }
-
     ol,
     ul {
         list-style: none outside none;
@@ -1799,71 +1787,94 @@
                     <!---------Radio Ends Here---------->
                     <!---------Radio Starts Here---------->
                     <li class="zf-radio zf-tempFrmWrapper zf-oneColumns"><label class="zf-labelName">Fluid
-                            Connection (male)
+                            Connection
                         </label>
-                        <div class="zf-tempContDiv">
-                            <div class="zf-overflow">
-                                <span class="zf-multiAttType">
-                                    <input class="zf-radioBtnType" type="radio" id="Radio5_1" name="Radio5"
-                                        checktype="c1" value="AS1098">
-                                    <label for="Radio5_1" class="zf-radioChoice">AS1098</label> </span>
-                                <span class="zf-multiAttType">
-                                    <input class="zf-radioBtnType" type="radio" id="Radio5_2" name="Radio5"
-                                        checktype="c1" value="AS5202">
-                                    <label for="Radio5_2" class="zf-radioChoice">AS5202</label> </span>
-                                <span class="zf-multiAttType">
-                                    <input class="zf-radioBtnType" type="radio" id="Radio5_3" name="Radio5"
-                                        checktype="c1" value="Welded">
-                                    <label for="Radio5_3" class="zf-radioChoice">Welded</label> </span>
-                                <span class="zf-multiAttType">
-                                    <input class="zf-radioBtnType" type="radio" id="Radio5_4" name="Radio5"
-                                        checktype="c1" value="Flanged">
-                                    <label for="Radio5_4" class="zf-radioChoice">Flanged</label> </span>
-                                <span class="zf-multiAttType"> <input class="zf-radioBtnType" id="Radio5_others"
-                                        type="radio" value="zfs-others-zfs" name="Radio5"><label for="Radio5_others"
-                                        class="zf-radioChoice">Other</label>
-                                    <input name="Radio5_allow_others_text" type="text" maxlength="150"></span>
-                                <div class="zf-clearBoth"></div>
-                            </div>
-                            <p id="Radio5_error" class="zf-errorMessage" style="display:none;">Invalid value</p>
-                            <p class="zf-instruction">male fluid connection</p>
-                        </div>
-                        <div class="zf-clearBoth"></div>
+
+                        <table>
+                            <tr>
+                                <th>male</th>
+                                <th>female</th>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <div class="zf-tempContDiv">
+                                        <div class="zf-overflow">
+                                            <span class="zf-multiAttType">
+                                                <input class="zf-radioBtnType" type="radio" id="Radio5_1" name="Radio5"
+                                                    checktype="c1" value="AS1098">
+                                                <label for="Radio5_1" class="zf-radioChoice">AS1098</label> </span>
+                                            <span class="zf-multiAttType">
+                                                <input class="zf-radioBtnType" type="radio" id="Radio5_2" name="Radio5"
+                                                    checktype="c1" value="AS5202">
+                                                <label for="Radio5_2" class="zf-radioChoice">AS5202</label> </span>
+                                            <span class="zf-multiAttType">
+                                                <input class="zf-radioBtnType" type="radio" id="Radio5_3" name="Radio5"
+                                                    checktype="c1" value="Welded">
+                                                <label for="Radio5_3" class="zf-radioChoice">Welded</label> </span>
+                                            <span class="zf-multiAttType">
+                                                <input class="zf-radioBtnType" type="radio" id="Radio5_4" name="Radio5"
+                                                    checktype="c1" value="Flanged">
+                                                <label for="Radio5_4" class="zf-radioChoice">Flanged</label> </span>
+                                            <span class="zf-multiAttType"> <input class="zf-radioBtnType"
+                                                    id="Radio5_others" type="radio" value="zfs-others-zfs"
+                                                    name="Radio5"><label for="Radio5_others"
+                                                    class="zf-radioChoice">Other</label>
+                                                <input name="Radio5_allow_others_text" type="text"
+                                                    maxlength="150"></span>
+                                            <div class="zf-clearBoth"></div>
+                                        </div>
+                                        <p id="Radio5_error" class="zf-errorMessage" style="display:none;">Invalid value
+                                        </p>
+                                        <p class="zf-instruction">male fluid connection</p>
+                                    </div>
+                                    <div class="zf-clearBoth"></div>
+                                </td>
+                                <td>
+                                    <div class="zf-tempContDiv">
+                                        <div class="zf-overflow">
+                                            <span class="zf-multiAttType">
+                                                <input class="zf-radioBtnType" type="radio" id="Radio6_1" name="Radio6"
+                                                    checktype="c1" value="AS1098">
+                                                <label for="Radio6_1" class="zf-radioChoice">AS1098</label> </span>
+                                            <span class="zf-multiAttType">
+                                                <input class="zf-radioBtnType" type="radio" id="Radio6_2" name="Radio6"
+                                                    checktype="c1" value="AS5202">
+                                                <label for="Radio6_2" class="zf-radioChoice">AS5202</label> </span>
+                                            <span class="zf-multiAttType">
+                                                <input class="zf-radioBtnType" type="radio" id="Radio6_3" name="Radio6"
+                                                    checktype="c1" value="Welded">
+                                                <label for="Radio6_3" class="zf-radioChoice">Welded</label> </span>
+                                            <span class="zf-multiAttType">
+                                                <input class="zf-radioBtnType" type="radio" id="Radio6_4" name="Radio6"
+                                                    checktype="c1" value="Flanged">
+                                                <label for="Radio6_4" class="zf-radioChoice">Flanged</label> </span>
+                                            <span class="zf-multiAttType"> <input class="zf-radioBtnType"
+                                                    id="Radio6_others" type="radio" value="zfs-others-zfs"
+                                                    name="Radio6"><label for="Radio6_others"
+                                                    class="zf-radioChoice">Other</label>
+                                                <input name="Radio6_allow_others_text" type="text"
+                                                    maxlength="150"></span>
+                                            <div class="zf-clearBoth"></div>
+                                        </div>
+                                        <p id="Radio6_error" class="zf-errorMessage" style="display:none;">Invalid value
+                                        </p>
+                                        <p class="zf-instruction">female fluid connection</p>
+                                    </div>
+                                    <div class="zf-clearBoth"></div>
+                                </td>
+                            </tr>
+                        </table>
+
+
                     </li>
+
                     <!---------Radio Ends Here---------->
                     <!---------Radio Starts Here---------->
-                    <li class="zf-radio zf-tempFrmWrapper zf-oneColumns"><label class="zf-labelName">Fluid
+                    <!-- <li class="zf-radio zf-tempFrmWrapper zf-oneColumns"><label class="zf-labelName">Fluid
                             Connection (female)
                         </label>
-                        <div class="zf-tempContDiv">
-                            <div class="zf-overflow">
-                                <span class="zf-multiAttType">
-                                    <input class="zf-radioBtnType" type="radio" id="Radio6_1" name="Radio6"
-                                        checktype="c1" value="AS1098">
-                                    <label for="Radio6_1" class="zf-radioChoice">AS1098</label> </span>
-                                <span class="zf-multiAttType">
-                                    <input class="zf-radioBtnType" type="radio" id="Radio6_2" name="Radio6"
-                                        checktype="c1" value="AS5202">
-                                    <label for="Radio6_2" class="zf-radioChoice">AS5202</label> </span>
-                                <span class="zf-multiAttType">
-                                    <input class="zf-radioBtnType" type="radio" id="Radio6_3" name="Radio6"
-                                        checktype="c1" value="Welded">
-                                    <label for="Radio6_3" class="zf-radioChoice">Welded</label> </span>
-                                <span class="zf-multiAttType">
-                                    <input class="zf-radioBtnType" type="radio" id="Radio6_4" name="Radio6"
-                                        checktype="c1" value="Flanged">
-                                    <label for="Radio6_4" class="zf-radioChoice">Flanged</label> </span>
-                                <span class="zf-multiAttType"> <input class="zf-radioBtnType" id="Radio6_others"
-                                        type="radio" value="zfs-others-zfs" name="Radio6"><label for="Radio6_others"
-                                        class="zf-radioChoice">Other</label>
-                                    <input name="Radio6_allow_others_text" type="text" maxlength="150"></span>
-                                <div class="zf-clearBoth"></div>
-                            </div>
-                            <p id="Radio6_error" class="zf-errorMessage" style="display:none;">Invalid value</p>
-                            <p class="zf-instruction">female fluid connection</p>
-                        </div>
-                        <div class="zf-clearBoth"></div>
-                    </li>
+
+                    </li> -->
                     <!---------Radio Ends Here---------->
                     <!---------Radio Starts Here---------->
                     <li class="zf-radio zf-tempFrmWrapper zf-oneColumns"><label class="zf-labelName">Mounting
@@ -2067,4 +2078,66 @@
     var zf_FieldArray = ["Radio", "Radio1", "Checkbox", "Checkbox1", "Radio2", "Radio3", "Radio4", "Radio5", "Radio6", "Radio7", "SingleLine", "Radio8", "SingleLine1", "Name_Salutation", "Name_First", "Name_Last", "Name_Middle", "Address_AddressLine1", "Address_AddressLine2", "Email", "SingleLine2", "MultiLine"];
     var isSalesIQIntegrationEnabled = false;
     var salesIQFieldsArray = [];
+</script>
+<script>
+    els = {
+        "n40": document.getElementById("Radio_1"),
+        "n330": document.getElementById("Radio_2"),
+        "n425": document.getElementById("Radio_3"),
+        "PH15_5": document.getElementById("Radio1_3"),
+        "PH17_4": document.getElementById("Radio1_4"),
+        "ln2": document.getElementById("Checkbox_2"),
+        "lox": document.getElementById("Checkbox_3"),
+        "lmethane": document.getElementById("Checkbox_4"),
+        "water": document.getElementById("Checkbox_10"),
+        "nitrogen": document.getElementById("Checkbox1_2"),
+        "oxygen": document.getElementById("Checkbox1_3"),
+        "methane": document.getElementById("Checkbox1_4"),
+        "as1098": document.getElementById("Radio5_1"),
+        "mas5202": document.getElementById("Radio5_2"),
+        "mwelded": document.getElementById("Radio5_3"),
+        "mflanged": document.getElementById("Radio5_4"),
+        "fluid_mother": document.getElementById("Radio5_others"),
+        "fas5202": document.getElementById("Radio6_2"),
+        "fwelded": document.getElementById("Radio6_3"),
+        "fflanged": document.getElementById("Radio6_4"),
+        "fluid_fother": document.getElementById("Radio6_others"),
+        "mjamnut": document.getElementById("Radio7_1"),
+        "fjamnut": document.getElementById("Radio8_1"),
+    };
+
+    dis = { "n40": ["PH15_5", "PH17_4"], "n330": ["PH15_5", "PH17_4"], "n425": ["PH15_5", "PH17_4", "lox", "ln2", "lmethane", "water", "oxygen", "methane", "nitrogen"], "mas5202": ["mjamnut"], "mwelded": ["mjamnut"], "mflanged": ["mjamnut"], "fluid_mother": ["mjamnut"], "fas5202": ["fjamnut"], "fwelded": ["fjamnut"], "fflanged": ["fjamnut"], "fluid_fother": ["fjamnut"] };
+
+    document.addEventListener("click", logic);
+
+    for (const [k, v] of Object.entries(dis)) {
+        els[k].addEventListener("click", () => {
+            for (const i of v) {
+                els[i].checked = false;
+            }
+        });
+    }
+
+    function disin(el) {
+        el.disabled = true;
+        el.labels[0].style = "color:red;";
+    }
+
+    function enin(el) {
+        el.disabled = false;
+        el.labels[0].style = "color:#000";
+    }
+
+    function logic() {
+        for (const [k, v] of Object.entries(els)) {
+            enin(v);
+        }
+        for (const [k, v] of Object.entries(dis)) {
+            for (const i of v) {
+                if (els[k].checked) {
+                    disin(els[i]);
+                }
+            }
+        }
+    }
 </script>
