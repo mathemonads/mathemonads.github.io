@@ -133,7 +133,7 @@
     /**********instruction Message***********/
     .zf-instruction {
         color: #939393;
-        font-style: italic;
+        /* font-style: italic; */
         margin-top: 3px;
         font-size: 12px;
         overflow: visible !important;
@@ -1040,7 +1040,7 @@
     }
 
     .zf-descFld em {
-        font-style: italic;
+        /* font-style: italic; */
     }
 
     .zf-descFld b {
@@ -1048,7 +1048,7 @@
     }
 
     .zf-descFld i {
-        font-style: italic;
+        /* font-style: italic; */
     }
 
     .zf-descFld u {
@@ -1472,7 +1472,7 @@
             <!---------template Header Starts Here---------->
             <ul class="zf-tempHeadBdr">
                 <li class="zf-tempHeadContBdr">
-                    <h2 class="zf-frmTitle"><em>Quick Disconnect Fittings (Ground Support Equipment)</em></h2>
+                    <h2 class="zf-frmTitle">Quick Disconnect Fittings (Ground Support Equipment)</h2>
                     <p class="zf-frmDesc">Request QD fittings to your specifications.</p>
                     <div class="zf-clearBoth"></div>
                 </li>
@@ -1967,6 +1967,7 @@
                         <div class="zf-clearBoth"></div>
                     </li>
                     <!---------Single Line Ends Here---------->
+
                     <!---------Name Starts Here---------->
                     <li class="zf-tempFrmWrapper zf-name zf-namemedium"><label class="zf-labelName">Full Name
                             <em class="zf-important">*</em>
@@ -1987,28 +1988,51 @@
                         </div>
                         <div class="zf-clearBoth"></div>
                     </li>
-                    <!---------Name Ends Here---------->
 
-                    <!--address-->
-                    <li class="zf-tempFrmWrapper zf-name zf-namemedium"><label class="zf-labelName">Organization
+                    <!-- <li class="zf-tempFrmWrapper zf-name zf-namemedium">
+                        <label class="zf-labelName">Full Name
                             <em class="zf-important">*</em>
                         </label>
                         <div class="zf-tempContDiv zf-twoType">
                             <div class="zf-nameWrapper">
+                                <span>
+                                    <input type="text" maxlength="255" name="Name_First" fieldType=7 />
+                                    <label>First</label>
                                 </span>
-                                <span> <input type="text" maxlength="255" name="Address_AddressLine1"
-                                        fieldType=7 /><label>Position</label> </span>
-                                </span> </span>
-                                <span> <input type="text" maxlength="255" name="Address_AddressLine2"
-                                        fieldType=7 /><label>Company</label> </span>
-                                </span> </span>
+                                <span>
+                                    <input type="text" maxlength="255" name="Name_Last" fieldType=7 />
+                                    <label>Last</label>
                                 </span>
                                 <div class="zf-clearBoth"></div>
                             </div>
                             <p id="Name_error" class="zf-errorMessage" style="display:none;">Invalid value</p>
                         </div>
                         <div class="zf-clearBoth"></div>
-                    </li>
+                    </li> -->
+                    <!---------Name Ends Here---------->
+
+                    <!--address-->
+                    <!-- <li class="zf-tempFrmWrapper zf-name zf-namemedium">
+                        <label class="zf-labelName">Organization
+                            <em class="zf-important">*</em>
+                        </label>
+                        <div class="zf-tempContDiv zf-twoType">
+                            <div class="zf-nameWrapper">
+                                <span>
+                                <span> <input type="text" maxlength="255" name="Address_AddressLine1"
+                                        fieldType=7 /><label>Position</label> </span>
+                                </span> 
+                                <span>
+                                <span> <input type="text" maxlength="255" name="Address_AddressLine2"
+                                        fieldType=7 /><label>Company</label> </span>
+                                </span>
+                                </span>
+                                <div class="zf-clearBoth"></div>
+                            </div>
+                            <p id="Name_error" class="zf-errorMessage" style="display:none;">Invalid value</p>
+                        </div>
+                        <div class="zf-clearBoth"></div>
+                    </li> -->
 
                     <!---------Address Starts Here---------->
                     <!-- <li class="zf-tempFrmWrapper zf-address zf-addrsmall "><label class="zf-labelName">Organization
@@ -2030,7 +2054,8 @@
                         </li> -->
                     <!---------Address Ends Here---------->
                     <!---------Email Starts Here---------->
-                    <li class="zf-tempFrmWrapper zf-small"><label class="zf-labelName">Email
+
+                    <!-- <li class="zf-tempFrmWrapper zf-small"><label class="zf-labelName">Email
                             <em class="zf-important">*</em>
                         </label>
                         <div class="zf-tempContDiv"><span> <input fieldType=9 type="text" maxlength="255" name="Email"
@@ -2039,10 +2064,11 @@
                             <p class="zf-instruction">example@example.com</p>
                         </div>
                         <div class="zf-clearBoth"></div>
-                    </li>
+                    </li> -->
                     <!---------Email Ends Here---------->
+
                     <!---------Single Line Starts Here---------->
-                    <li class="zf-tempFrmWrapper zf-small"><label class="zf-labelName">How soon do you need
+                    <!-- <li class="zf-tempFrmWrapper zf-small"><label class="zf-labelName">How soon do you need
                             fittings?
                         </label>
                         <div class="zf-tempContDiv"><span> <input type="text" name="SingleLine2" checktype="c1" value=""
@@ -2052,7 +2078,7 @@
                             <p class="zf-instruction">Lead Time</p>
                         </div>
                         <div class="zf-clearBoth"></div>
-                    </li>
+                    </li> -->
                     <!---------Single Line Ends Here---------->
                     <!---------Multiple Line Starts Here---------->
                     <li class="zf-tempFrmWrapper zf-small"><label class="zf-labelName">Comments
@@ -2086,13 +2112,24 @@
         "n425": document.getElementById("Radio_3"),
         "PH15_5": document.getElementById("Radio1_3"),
         "PH17_4": document.getElementById("Radio1_4"),
+        "lh2": document.getElementById("Checkbox_1"),
         "ln2": document.getElementById("Checkbox_2"),
         "lox": document.getElementById("Checkbox_3"),
         "lmethane": document.getElementById("Checkbox_4"),
+        "tea-teb": document.getElementById("Checkbox_5"),
+        "hydrazine": document.getElementById("Checkbox_6"),
+        "mmh": document.getElementById("Checkbox_7"),
+        "udmh": document.getElementById("Checkbox_8"),
+        "a50": document.getElementById("Checkbox_9"),
         "water": document.getElementById("Checkbox_10"),
+        "glycols": document.getElementById("Checkbox_11"),
+        "hydrogen": document.getElementById("Checkbox1_1"),
         "nitrogen": document.getElementById("Checkbox1_2"),
         "oxygen": document.getElementById("Checkbox1_3"),
         "methane": document.getElementById("Checkbox1_4"),
+        "helium": document.getElementById("Checkbox1_5"),
+        "argon": document.getElementById("Checkbox1_6"),
+        "xenon": document.getElementById("Checkbox1_7"),
         "as1098": document.getElementById("Radio5_1"),
         "mas5202": document.getElementById("Radio5_2"),
         "mwelded": document.getElementById("Radio5_3"),
@@ -2106,7 +2143,15 @@
         "fjamnut": document.getElementById("Radio8_1"),
     };
 
-    dis = { "n40": ["PH15_5", "PH17_4"], "n330": ["PH15_5", "PH17_4"], "n425": ["PH15_5", "PH17_4", "lox", "ln2", "lmethane", "water", "oxygen", "methane", "nitrogen"], "mas5202": ["mjamnut"], "mwelded": ["mjamnut"], "mflanged": ["mjamnut"], "fluid_mother": ["mjamnut"], "fas5202": ["fjamnut"], "fwelded": ["fjamnut"], "fflanged": ["fjamnut"], "fluid_fother": ["fjamnut"] };
+    // unsure of states of matter for helium, argon, and xenon
+
+    dis = {
+        "n40": ["PH15_5", "PH17_4"],
+        "n40": ["lh2", "ln2", "lox", "lmethane", "hydrazine", "a50", "water", "glycols"],
+        "n330": ["PH15_5", "PH17_4", "lh2", "lmethane", "tea-teb", "hydrazine", "mmh", "udmh", "a50", "water", "glycols", "nitrogen", "oxygen", "methane", "argon", "xenon"],
+        "n425": ["PH15_5", "PH17_4", "lox", "ln2", "lmethane", "tea-teb", "hydrazine", "mmh", "udmh", "a50", "water", "glycols", "hydrogen", "oxygen", "methane", "nitrogen", "argon", "xenon"],
+        "mas5202": ["mjamnut"], "mwelded": ["mjamnut"], "mflanged": ["mjamnut"], "fluid_mother": ["mjamnut"], "fas5202": ["fjamnut"], "fwelded": ["fjamnut"], "fflanged": ["fjamnut"], "fluid_fother": ["fjamnut"]
+    };
 
     document.addEventListener("click", logic);
 
