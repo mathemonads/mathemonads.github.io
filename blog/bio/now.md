@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Now
-Oscar is currently working at the UAF Geophysical Institute and participating in a graduate electrical engineering class on computational electromagnetism. Outside of that, he's also learning about computer systems (organization, architecture, software, etc).
+Oscar is currently working at the UAF Geophysical Institute and participating in the graduate electrical engineering class on computational electromagnetism. Outside of that, he's also learning about computer systems (organization, architecture, software, etc).
 
 ## Media
 
