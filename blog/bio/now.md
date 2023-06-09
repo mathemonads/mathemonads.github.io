@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Now
-Oscar is currently working at the UAF Geophysical Institute and participating in the graduate electrical engineering class on computational electromagnetism. Outside of that, he's also learning about computer systems (organization, architecture, software, etc).
+Oscar is a summer climate technology intern in the circular economy. He's interested in learning more about programming languages, microeconomics, industrial robotics, international relations, and information assurance.
 
 ## Media
 
