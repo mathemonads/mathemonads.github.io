@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Now
-Oscar is a summer climate technology intern in the circular economy. He's interested in learning more about programming languages, microeconomics, industrial robotics, international relations, and information assurance.
+Oscar is a summer climate technology intern in the circular economy. He's interested in learning more about programming languages, microeconomics, industrial robotics, international relations, and information technology.
 
 ## Media
 
