@@ -1,14 +1,11 @@
 # frozen_string_literal: true
 
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'github-pages'
-gem 'jekyll'
-gem 'ruby'
+gem "github-pages", "~> 232", group: :jekyll_plugins
 gem "webrick"
 
 group :jekyll_plugins do
 	gem 'jekyll-commonmark'
 end
 
-gemspec
